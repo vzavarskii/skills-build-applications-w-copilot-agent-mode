@@ -67,8 +67,9 @@ Do NOT show the Russian translation for review words — the user must recall th
 After presenting both groups, say:
 
 > Переведи, пожалуйста, все слова на повтор (напиши номер и перевод). Новые слова тоже можешь попробовать воспроизвести по памяти — напиши через запятую после ответов на повтор, если хочешь.
+> Напиши **"стоп"** в любой момент, чтобы завершить урок.
 
-Wait for the user's response.
+Wait for the user's response. If the user writes "стоп", "хватит", "стоп урок", "завершить" or any clear intent to stop — skip to STEP 6 (save current state) and then go to the final message in STEP 7.
 
 ---
 
@@ -95,16 +96,28 @@ Then commit and push:
 ```
 git add spanish-lessons/words.md
 git commit -m "Update vocabulary progress after lesson [YYYY-MM-DD]"
-git push -u origin claude/check-file-access-WUbNs
+git push -u origin $(git branch --show-current)
 ```
 
 ---
 
 ## STEP 7 — Continue or finish
 
-After saving:
-- If **any word still has level < 3** → say "Отличная работа! Хочешь продолжить прямо сейчас? Напиши /spanish-lesson для следующего урока."
-- If **all words are level 3** → congratulate the user: "🎉 Поздравляю! Все слова выучены на максимальный уровень! Но не забывай повторять — раз в месяц запускай /spanish-lesson для поддержания."
+After saving, check two conditions:
+
+**A. All words are level 3:**
+Congratulate the user: "🎉 Поздравляю! Все слова выучены на максимальный уровень! Но не забывай повторять — раз в месяц запускай /spanish-lesson для поддержания."
+End the lesson.
+
+**B. User said "стоп" (or equivalent) during this round:**
+Say: "Урок завершён! Молодец, до следующего раза 💪"
+Show final session stats: how many rounds completed, total words seen, correct/incorrect counts for the whole session.
+End the lesson.
+
+**C. Words remain and user has not asked to stop:**
+Say a brief encouraging line (vary it each round — e.g. "Отлично, продолжаем!", "Следующая партия!", "Так держать!").
+Then **automatically loop back to STEP 2** — re-read the updated file, select the next 20 words (applying the same selection rules), and continue from STEP 3.
+Do NOT wait for any command from the user to start the next round.
 
 ---
 
