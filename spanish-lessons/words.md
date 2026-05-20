@@ -1,162 +1,162 @@
 # Список слов на изучение
 
-| Испанский | Русский |
-|-----------|---------|
-| Pastores de ganado | пастухи скота |
-| Cabezas aisladas | отдельные головы скота / одиночные животные |
-| Jinetes | всадники |
-| Aprendizaje | обучение |
-| Empuja | толкает |
-| Arrastra | тянет, тащит |
-| Impedido | ограниченный в движении / инвалид |
-| Monopatín | самокат / скейт |
-| Patines | ролики, коньки |
-| Molestan | мешают, создают помехи |
-| Dirigido | направляемый, управляемый |
-| Tanto por … como por … | как …, так и … |
-| Tendrán | будут иметь / должны будут |
-| Lo harán | сделают это |
-| Provistos | оснащённые, снабжённые |
-| Someterse | подчиняться |
-| Involucrado | вовлечённый |
-| Vía pecuaria | скотопрогонная дорога |
-| Mitad | половина |
-| Así lo aconsejan | так рекомендуется |
-| Ante | перед, при |
-| Tracción | тяга, привод |
-| Demás | остальные |
-| Salvo | кроме, за исключением |
-| Siguientes | следующие |
-| Dichos | указанные, упомянутые |
-| Aunque | хотя |
-| Se hallan | находятся |
-| Vayan | пусть идут / едут |
-| Refugio | убежище, островок безопасности |
-| Sean | являются / пусть будут |
-| Tropas | войска |
-| Formación | построение |
-| Filas | ряды |
-| Comitivas | процессии, колонны |
-| Ceder | уступать |
-| Detenerse | остановиться |
-| Marcas viales | дорожная разметка |
-| Advertir | предупреждать |
-| Debidamente | должным образом |
-| Pretende | намеревается |
-| Penetrar | въезжать, проникать |
-| Cualquier | любой |
-| Apto | подходящий |
-| Terrenos | земельные участки, местность |
-| Habilitados | разрешённые, оборудованные |
-| Propulsión | двигатель, привод |
-| Así como | так же как и |
-| Tranvías | трамваи |
-| Destinados | предназначенные |
-| Ambos | оба |
-| Sidecar | коляска мотоцикла |
-| Pesado | тяжёлый |
-| Derivado | производный |
-| Carrocería | кузов |
-| Acondicionado | оборудованный / кондиционированный |
-| Tractocamión | тягач |
-| En vigor | действующий |
-| Dispositivo | устройство |
-| Estridente | пронзительный, резкий |
-| Obedecen | подчиняются |
-| Potencia | мощность |
-| Pantalla | экран |
-| Vaho | пар, запотевание |
-| Empañe | запотевание, помутнение |
-| Calzado | обувь |
-| Adecuado | подходящий |
-| Cuero | кожа, кожаный |
-| Llamativos | яркие, броские |
-| Guantes | перчатки |
-| Agarre firme | крепкий хват |
-| Manejo | управление |
-| Alcance | радиус действия / досягаемость |
-| Intermitentes | поворотники |
-| Estrangulador | подсос (в двигателе) |
-| Direccionales | указатели поворота, поворотники |
-| Corte de ignición | выключение зажигания |
-| Botón de arranque | кнопка запуска двигателя |
-| Patilla de arranque auxiliar | вспомогательная пусковая ножка / кикстартер |
-| Combustible | топливо |
-| Odómetro | одометр, счётчик пробега |
-| Pito | гудок, сигнал |
-| Bocina | клаксон, звуковой сигнал |
-| Embrague | сцепление |
-| Erguida | выпрямленная, прямая |
-| Aumenta | увеличивается |
-| Consumo de combustible | расход топлива |
-| Lo contrario | обратное |
-| Agachado | согнутый, наклонившийся |
-| Suelta | расслабленная, свободная |
-| Forzada | напряжённая, вынужденная |
-| Evitando fatiga | избегая усталости |
-| Sentados entre | сидящие между |
-| Horcajadas | верхом (как на лошади) |
-| Saber | знать |
-| Hay que tener en cuenta | нужно учитывать / следует иметь в виду |
-| Menos | менее |
-| Carenado | обтекатель, обшивка мотоцикла |
-| Siendo | являясь |
-| Preciso | необходимо, обязательно |
-| Exentas | освобождённые |
-| Justifique | оправдывает, подтверждает |
-| Prescindir | обходиться без, отказаться от |
-| Incorporación | вливание в поток, присоединение к движению |
-| Herramientas | инструменты |
-| Otros | другие |
-| Bombillas | лампочки |
-| Botiquín | аптечка |
-| Techo | крыша |
-| Limpiaparabrisas | стеклоочиститель, дворник |
-| Tapa del depósito | крышка топливного бака |
-| Maletero | багажник |
-| Parachoques | бампер |
-| Techo corredizo | люк, сдвижная крыша |
-| Parabrisas | лобовое стекло |
-| Cerradura de la puerta | дверной замок |
-| Capó | капот |
-| Guardabarros | крыло, брызговик |
-| Intermitente | поворотник |
-| Parrilla delantera | решётка радиатора |
-| Neumático | шина |
-| Tapacubos | колпак колеса |
-| Reposacabezas | подголовник |
-| Tablero de mandos | приборная панель |
-| Volante | руль |
-| Contacto | зажигание |
-| Asiento | сиденье |
-| Palanca de cambio | рычаг переключения передач |
-| Freno de mano | ручной тормоз |
-| Para dar con | чтобы найти, добиться |
-| Sígalas | следуйте им |
-| Orden | порядок |
-| Siendo ligeramente | будучи слегка / слегка |
-| Flexionada | согнутая |
-| Lo más lejos | как можно дальше |
-| Permita | позволяет |
-| Respaldo | спинка сиденья |
-| Inclinado | наклонённый |
-| Vertical | вертикальный |
-| Ángulo recto | прямой угол |
-| Apoyados | опирающиеся |
-| Alcancen | доставали |
-| Profundidad | глубина |
-| Adecuadas | подходящие |
-| Altas | высоко расположенные |
-| Lóbulos | мочки (ушей) |
-| Queden alineados | были выровнены |
-| Cinturón de seguridad | ремень безопасности |
-| Por encima | поверх, выше |
-| Hombro | плечо |
-| Clavícula | ключица |
-| Cíñalo | плотно пристегните / прижмите |
-| Pecho | грудь |
-| Abdomen | живот |
-| Luneta trasera | заднее стекло |
-| Obstaculizar | препятствовать, закрывать обзор |
-| Ángulo muerto | слепая зона |
-| Profundidad adecuadas | подходящая глубина |
+| Испанский | Русский | Уровень (0-3) | Последний повтор |
+|-----------|---------|:-------------:|:----------------:|
+| Pastores de ganado | пастухи скота | 0 | — |
+| Cabezas aisladas | отдельные головы скота / одиночные животные | 0 | — |
+| Jinetes | всадники | 0 | — |
+| Aprendizaje | обучение | 0 | — |
+| Empuja | толкает | 0 | — |
+| Arrastra | тянет, тащит | 0 | — |
+| Impedido | ограниченный в движении / инвалид | 0 | — |
+| Monopatín | самокат / скейт | 0 | — |
+| Patines | ролики, коньки | 0 | — |
+| Molestan | мешают, создают помехи | 0 | — |
+| Dirigido | направляемый, управляемый | 0 | — |
+| Tanto por … como por … | как …, так и … | 0 | — |
+| Tendrán | будут иметь / должны будут | 0 | — |
+| Lo harán | сделают это | 0 | — |
+| Provistos | оснащённые, снабжённые | 0 | — |
+| Someterse | подчиняться | 0 | — |
+| Involucrado | вовлечённый | 0 | — |
+| Vía pecuaria | скотопрогонная дорога | 0 | — |
+| Mitad | половина | 0 | — |
+| Así lo aconsejan | так рекомендуется | 0 | — |
+| Ante | перед, при | 0 | — |
+| Tracción | тяга, привод | 0 | — |
+| Demás | остальные | 0 | — |
+| Salvo | кроме, за исключением | 0 | — |
+| Siguientes | следующие | 0 | — |
+| Dichos | указанные, упомянутые | 0 | — |
+| Aunque | хотя | 0 | — |
+| Se hallan | находятся | 0 | — |
+| Vayan | пусть идут / едут | 0 | — |
+| Refugio | убежище, островок безопасности | 0 | — |
+| Sean | являются / пусть будут | 0 | — |
+| Tropas | войска | 0 | — |
+| Formación | построение | 0 | — |
+| Filas | ряды | 0 | — |
+| Comitivas | процессии, колонны | 0 | — |
+| Ceder | уступать | 0 | — |
+| Detenerse | остановиться | 0 | — |
+| Marcas viales | дорожная разметка | 0 | — |
+| Advertir | предупреждать | 0 | — |
+| Debidamente | должным образом | 0 | — |
+| Pretende | намеревается | 0 | — |
+| Penetrar | въезжать, проникать | 0 | — |
+| Cualquier | любой | 0 | — |
+| Apto | подходящий | 0 | — |
+| Terrenos | земельные участки, местность | 0 | — |
+| Habilitados | разрешённые, оборудованные | 0 | — |
+| Propulsión | двигатель, привод | 0 | — |
+| Así como | так же как и | 0 | — |
+| Tranvías | трамваи | 0 | — |
+| Destinados | предназначенные | 0 | — |
+| Ambos | оба | 0 | — |
+| Sidecar | коляска мотоцикла | 0 | — |
+| Pesado | тяжёлый | 0 | — |
+| Derivado | производный | 0 | — |
+| Carrocería | кузов | 0 | — |
+| Acondicionado | оборудованный / кондиционированный | 0 | — |
+| Tractocamión | тягач | 0 | — |
+| En vigor | действующий | 0 | — |
+| Dispositivo | устройство | 0 | — |
+| Estridente | пронзительный, резкий | 0 | — |
+| Obedecen | подчиняются | 0 | — |
+| Potencia | мощность | 0 | — |
+| Pantalla | экран | 0 | — |
+| Vaho | пар, запотевание | 0 | — |
+| Empañe | запотевание, помутнение | 0 | — |
+| Calzado | обувь | 0 | — |
+| Adecuado | подходящий | 0 | — |
+| Cuero | кожа, кожаный | 0 | — |
+| Llamativos | яркие, броские | 0 | — |
+| Guantes | перчатки | 0 | — |
+| Agarre firme | крепкий хват | 0 | — |
+| Manejo | управление | 0 | — |
+| Alcance | радиус действия / досягаемость | 0 | — |
+| Intermitentes | поворотники | 0 | — |
+| Estrangulador | подсос (в двигателе) | 0 | — |
+| Direccionales | указатели поворота, поворотники | 0 | — |
+| Corte de ignición | выключение зажигания | 0 | — |
+| Botón de arranque | кнопка запуска двигателя | 0 | — |
+| Patilla de arranque auxiliar | вспомогательная пусковая ножка / кикстартер | 0 | — |
+| Combustible | топливо | 0 | — |
+| Odómetro | одометр, счётчик пробега | 0 | — |
+| Pito | гудок, сигнал | 0 | — |
+| Bocina | клаксон, звуковой сигнал | 0 | — |
+| Embrague | сцепление | 0 | — |
+| Erguida | выпрямленная, прямая | 0 | — |
+| Aumenta | увеличивается | 0 | — |
+| Consumo de combustible | расход топлива | 0 | — |
+| Lo contrario | обратное | 0 | — |
+| Agachado | согнутый, наклонившийся | 0 | — |
+| Suelta | расслабленная, свободная | 0 | — |
+| Forzada | напряжённая, вынужденная | 0 | — |
+| Evitando fatiga | избегая усталости | 0 | — |
+| Sentados entre | сидящие между | 0 | — |
+| Horcajadas | верхом (как на лошади) | 0 | — |
+| Saber | знать | 0 | — |
+| Hay que tener en cuenta | нужно учитывать / следует иметь в виду | 0 | — |
+| Menos | менее | 0 | — |
+| Carenado | обтекатель, обшивка мотоцикла | 0 | — |
+| Siendo | являясь | 0 | — |
+| Preciso | необходимо, обязательно | 0 | — |
+| Exentas | освобождённые | 0 | — |
+| Justifique | оправдывает, подтверждает | 0 | — |
+| Prescindir | обходиться без, отказаться от | 0 | — |
+| Incorporación | вливание в поток, присоединение к движению | 0 | — |
+| Herramientas | инструменты | 0 | — |
+| Otros | другие | 0 | — |
+| Bombillas | лампочки | 0 | — |
+| Botiquín | аптечка | 0 | — |
+| Techo | крыша | 0 | — |
+| Limpiaparabrisas | стеклоочиститель, дворник | 0 | — |
+| Tapa del depósito | крышка топливного бака | 0 | — |
+| Maletero | багажник | 0 | — |
+| Parachoques | бампер | 0 | — |
+| Techo corredizo | люк, сдвижная крыша | 0 | — |
+| Parabrisas | лобовое стекло | 0 | — |
+| Cerradura de la puerta | дверной замок | 0 | — |
+| Capó | капот | 0 | — |
+| Guardabarros | крыло, брызговик | 0 | — |
+| Intermitente | поворотник | 0 | — |
+| Parrilla delantera | решётка радиатора | 0 | — |
+| Neumático | шина | 0 | — |
+| Tapacubos | колпак колеса | 0 | — |
+| Reposacabezas | подголовник | 0 | — |
+| Tablero de mandos | приборная панель | 0 | — |
+| Volante | руль | 0 | — |
+| Contacto | зажигание | 0 | — |
+| Asiento | сиденье | 0 | — |
+| Palanca de cambio | рычаг переключения передач | 0 | — |
+| Freno de mano | ручной тормоз | 0 | — |
+| Para dar con | чтобы найти, добиться | 0 | — |
+| Sígalas | следуйте им | 0 | — |
+| Orden | порядок | 0 | — |
+| Siendo ligeramente | будучи слегка / слегка | 0 | — |
+| Flexionada | согнутая | 0 | — |
+| Lo más lejos | как можно дальше | 0 | — |
+| Permita | позволяет | 0 | — |
+| Respaldo | спинка сиденья | 0 | — |
+| Inclinado | наклонённый | 0 | — |
+| Vertical | вертикальный | 0 | — |
+| Ángulo recto | прямой угол | 0 | — |
+| Apoyados | опирающиеся | 0 | — |
+| Alcancen | доставали | 0 | — |
+| Profundidad | глубина | 0 | — |
+| Adecuadas | подходящие | 0 | — |
+| Altas | высоко расположенные | 0 | — |
+| Lóbulos | мочки (ушей) | 0 | — |
+| Queden alineados | были выровнены | 0 | — |
+| Cinturón de seguridad | ремень безопасности | 0 | — |
+| Por encima | поверх, выше | 0 | — |
+| Hombro | плечо | 0 | — |
+| Clavícula | ключица | 0 | — |
+| Cíñalo | плотно пристегните / прижмите | 0 | — |
+| Pecho | грудь | 0 | — |
+| Abdomen | живот | 0 | — |
+| Luneta trasera | заднее стекло | 0 | — |
+| Obstaculizar | препятствовать, закрывать обзор | 0 | — |
+| Ángulo muerto | слепая зона | 0 | — |
+| Profundidad adecuadas | подходящая глубина | 0 | — |
