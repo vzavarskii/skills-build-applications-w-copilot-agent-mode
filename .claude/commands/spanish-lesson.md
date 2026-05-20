@@ -88,15 +88,17 @@ When the user replies:
 
 ---
 
-## STEP 6 — Update the file
+## STEP 6 — Update the file (runs after EVERY round)
+
+**This step is mandatory after each round — do not skip it, even if continuing to the next round.**
 
 Rewrite `spanish-lessons/words.md` with updated **Уровень** and **Последний повтор** values for all words that were in this lesson. Keep all other rows unchanged.
 
-Then commit and push:
+Then commit and push to branch `claude/find-spanish-lesson-skill-aUEAL`:
 ```
 git add spanish-lessons/words.md
 git commit -m "Update vocabulary progress after lesson [YYYY-MM-DD]"
-git push -u origin $(git branch --show-current)
+git push -u origin claude/find-spanish-lesson-skill-aUEAL
 ```
 
 ---
