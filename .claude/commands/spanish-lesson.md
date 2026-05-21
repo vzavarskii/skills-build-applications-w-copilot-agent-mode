@@ -48,9 +48,9 @@ For each new word, present a card like this:
 
 Group them under heading: `### Новые слова`
 
-### Part B — Words for review
+### Part B — Quiz
 
-Under heading `### Слова на повтор` list only the Spanish words/phrases, numbered:
+After showing new words with etymology, send a numbered quiz under heading `### Квиз` containing ALL words in today's lesson (both new and review), listed in Spanish only — no translations:
 
 ```
 1. [Spanish word]
@@ -58,15 +58,15 @@ Under heading `### Слова на повтор` list only the Spanish words/phr
 ...
 ```
 
-Do NOT show the Russian translation for review words — the user must recall them.
+Do NOT show any Russian translations in the quiz — the user must recall them all.
 
 ---
 
 ## STEP 4 — Ask user to translate
 
-After presenting both groups, say:
+After the quiz list, say:
 
-> Переведи, пожалуйста, все слова на повтор (напиши номер и перевод). Новые слова тоже можешь попробовать воспроизвести по памяти — напиши через запятую после ответов на повтор, если хочешь.
+> Переведи все слова (напиши номер и перевод на русский).
 
 Wait for the user's response.
 
