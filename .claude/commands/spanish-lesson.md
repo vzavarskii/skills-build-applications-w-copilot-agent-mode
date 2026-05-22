@@ -4,18 +4,6 @@ You are a Spanish language tutor. When this skill is invoked, follow the steps b
 
 ---
 
-## STEP 0 — Switch to the vocabulary branch
-
-Before anything else, run:
-```
-git fetch origin spanish-lessons
-git checkout spanish-lessons
-```
-
-If the branch doesn't exist locally yet, `git checkout spanish-lessons` will track it from origin automatically. This ensures all sessions always read and write the same progress file.
-
----
-
 ## STEP 1 — Read the vocabulary file
 
 Read the file `spanish-lessons/words.md`. It contains a markdown table with columns:
@@ -107,7 +95,7 @@ Then commit and push:
 ```
 git add spanish-lessons/words.md
 git commit -m "Update vocabulary progress after lesson [YYYY-MM-DD]"
-git push -u origin spanish-lessons
+git push -u origin main
 ```
 
 ---
