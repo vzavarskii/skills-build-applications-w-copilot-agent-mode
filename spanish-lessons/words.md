@@ -112,17 +112,17 @@
 | Botiquín | аптечка | 1 | 2026-05-27 |
 | Techo | крыша | 1 | 2026-05-27 |
 | Limpiaparabrisas | стеклоочиститель, дворник | 1 | 2026-05-27 |
-| Tapa del depósito | крышка топливного бака | 0 | 2026-05-27 |
+| Tapa del depósito | крышка топливного бака | 1 | 2026-05-27 |
 | Maletero | багажник | 1 | 2026-05-27 |
-| Parachoques | бампер | 0 | — |
-| Techo corredizo | люк, сдвижная крыша | 0 | — |
-| Parabrisas | лобовое стекло | 0 | — |
-| Cerradura de la puerta | дверной замок | 0 | — |
-| Capó | капот | 0 | — |
-| Guardabarros | крыло, брызговик | 0 | — |
-| Intermitente | поворотник | 0 | — |
-| Parrilla delantera | решётка радиатора | 0 | — |
-| Neumático | шина | 0 | — |
+| Parachoques | бампер | 1 | 2026-05-27 |
+| Techo corredizo | люк, сдвижная крыша | 1 | 2026-05-27 |
+| Parabrisas | лобовое стекло | 1 | 2026-05-27 |
+| Cerradura de la puerta | дверной замок | 1 | 2026-05-27 |
+| Capó | капот | 1 | 2026-05-27 |
+| Guardabarros | крыло, брызговик | 1 | 2026-05-27 |
+| Intermitente | поворотник | 1 | 2026-05-27 |
+| Parrilla delantera | решётка радиатора | 0 | 2026-05-27 |
+| Neumático | шина | 1 | 2026-05-27 |
 | Tapacubos | колпак колеса | 0 | — |
 | Reposacabezas | подголовник | 0 | — |
 | Tablero de mandos | приборная панель | 0 | — |
