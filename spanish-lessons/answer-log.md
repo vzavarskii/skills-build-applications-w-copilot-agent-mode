@@ -42,3 +42,13 @@
 | 2026-06-02 | Embrague | ✅ |
 | 2026-06-02 | Erguida | ❌ |
 | 2026-06-02 | Aumenta | ❌ |
+| 2026-06-02 | Consumo de combustible | ✅ |
+| 2026-06-02 | Dirigido | ✅ |
+| 2026-06-02 | Tanto por … como por … | ✅ |
+| 2026-06-02 | Tendrán | ✅ |
+| 2026-06-02 | Lo harán | ✅ |
+| 2026-06-02 | Provistos | ❌ |
+| 2026-06-02 | Someterse | ❌ |
+| 2026-06-02 | Involucrado | ✅ |
+| 2026-06-02 | Vía pecuaria | ✅ |
+| 2026-06-02 | Mitad | ✅ |
