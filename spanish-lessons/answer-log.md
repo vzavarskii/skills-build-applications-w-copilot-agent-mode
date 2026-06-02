@@ -32,3 +32,13 @@
 | 2026-06-02 | Intermitentes | ✅ |
 | 2026-06-02 | Estrangulador | ❌ |
 | 2026-06-02 | Direccionales | ❌ |
+| 2026-06-02 | Corte de ignición | ✅ |
+| 2026-06-02 | Botón de arranque | ✅ |
+| 2026-06-02 | Patilla de arranque auxiliar | ❌ |
+| 2026-06-02 | Combustible | ❌ |
+| 2026-06-02 | Odómetro | ✅ |
+| 2026-06-02 | Pito | ✅ |
+| 2026-06-02 | Bocina | ✅ |
+| 2026-06-02 | Embrague | ✅ |
+| 2026-06-02 | Erguida | ❌ |
+| 2026-06-02 | Aumenta | ❌ |
