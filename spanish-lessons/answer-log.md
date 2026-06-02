@@ -22,3 +22,13 @@
 | 2026-06-01 | Vaho | ✅ |
 | 2026-06-01 | Empañe | ❌ |
 | 2026-06-01 | Calzado | ✅ |
+| 2026-06-02 | Adecuado | ✅ |
+| 2026-06-02 | Cuero | ❌ |
+| 2026-06-02 | Llamativos | ❌ |
+| 2026-06-02 | Guantes | ✅ |
+| 2026-06-02 | Agarre firme | ✅ |
+| 2026-06-02 | Manejo | ✅ |
+| 2026-06-02 | Alcance | ❌ |
+| 2026-06-02 | Intermitentes | ✅ |
+| 2026-06-02 | Estrangulador | ❌ |
+| 2026-06-02 | Direccionales | ❌ |
