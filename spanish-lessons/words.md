@@ -160,3 +160,27 @@
 | Obstaculizar | препятствовать, закрывать обзор | 0 | — |
 | Ángulo muerto | слепая зона | 0 | — |
 | Profundidad adecuadas | подходящая глубина | 0 | — |
+| Testigos de aviso | индикаторы предупреждения | 0 | — |
+| Acercarse | подъехать, приблизиться | 0 | — |
+| Control de tracción/estabilidad | контроль тяги/устойчивости | 0 | — |
+| Precalentamiento diésel | прогрев дизеля | 0 | — |
+| Pastillas de freno desgastadas | изношенные тормозные колодки | 0 | — |
+| Nivel de combustible bajo | низкий уровень топлива | 0 | — |
+| Fallo del ABS | сбой ABS | 0 | — |
+| Airbag falla o está desconectado | сбой/отключение подушки безопасности | 0 | — |
+| Fallo dirección asistida | сбой усилителя руля | 0 | — |
+| Lámpara de faro fundida | перегоревшая лампочка | 0 | — |
+| Fallo de motor | сбой двигателя | 0 | — |
+| Comprobar el nivel de aceite | проверить уровень масла | 0 | — |
+| Líquido limpiaparabrisas | жидкость омывателя | 0 | — |
+| Presión de inflado de ruedas | давление подкачки колёс | 0 | — |
+| Freno | тормоз | 0 | — |
+| Acelerador | акселератор, газ | 0 | — |
+| Guantera | бардачок | 0 | — |
+| Climatizador | климатизатор | 0 | — |
+| Sistema de audio | аудиосистема | 0 | — |
+| Encendedor de mechero | прикуриватель | 0 | — |
+| Consola central | центральная консоль | 0 | — |
+| Elevalunas eléctrico | электрический стеклоподъёмник | 0 | — |
+| Alfombrillas | коврики | 0 | — |
+| Mando apertura del capó o depósito | рычаг открытия капота или бака | 0 | — |
