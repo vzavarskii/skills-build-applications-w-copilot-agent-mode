@@ -62,3 +62,13 @@
 | 2026-06-02 | Vayan | ❌ |
 | 2026-06-02 | Refugio | ✅ |
 | 2026-06-02 | Tropas | ✅ |
+| 2026-06-03 | Formación | ✅ |
+| 2026-06-03 | Filas | ✅ |
+| 2026-06-03 | Comitivas | ✅ |
+| 2026-06-03 | Ceder | ✅ |
+| 2026-06-03 | Detenerse | ✅ |
+| 2026-06-03 | Marcas viales | ✅ |
+| 2026-06-03 | Advertir | ✅ |
+| 2026-06-03 | Pretende | ❌ |
+| 2026-06-03 | Propulsión | ❌ |
+| 2026-06-03 | Así como | ✅ |
