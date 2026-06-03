@@ -82,3 +82,13 @@
 | 2026-06-03 | Saber | ✅ |
 | 2026-06-03 | Hay que tener en cuenta | ✅ |
 | 2026-06-03 | Menos | ✅ |
+| 2026-06-03 | Carenado | ✅ |
+| 2026-06-03 | Siendo | ❌ |
+| 2026-06-03 | Preciso | ✅ |
+| 2026-06-03 | Exentas | ❌ |
+| 2026-06-03 | Justifique | ✅ |
+| 2026-06-03 | Prescindir | ❌ |
+| 2026-06-03 | Incorporación | ✅ |
+| 2026-06-03 | Herramientas | ✅ |
+| 2026-06-03 | Otros | ✅ |
+| 2026-06-03 | Bombillas | ✅ |
