@@ -72,3 +72,13 @@
 | 2026-06-03 | Pretende | ❌ |
 | 2026-06-03 | Propulsión | ❌ |
 | 2026-06-03 | Así como | ✅ |
+| 2026-06-03 | Lo contrario | ✅ |
+| 2026-06-03 | Agachado | ✅ |
+| 2026-06-03 | Suelta | ✅ |
+| 2026-06-03 | Forzada | ✅ |
+| 2026-06-03 | Evitando fatiga | ❌ |
+| 2026-06-03 | Sentados entre | ✅ |
+| 2026-06-03 | Horcajadas | ❌ |
+| 2026-06-03 | Saber | ✅ |
+| 2026-06-03 | Hay que tener en cuenta | ✅ |
+| 2026-06-03 | Menos | ✅ |
