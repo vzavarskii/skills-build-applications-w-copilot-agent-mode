@@ -112,3 +112,13 @@
 | 2026-06-05 | Clavícula | ✅ |
 | 2026-06-05 | Pantalla | ✅ |
 | 2026-06-05 | Parachoques | ✅ |
+| 2026-06-05 | Guardabarros | ✅ |
+| 2026-06-05 | Ángulo muerto | ✅ |
+| 2026-06-05 | Intermitente | ✅ |
+| 2026-06-05 | Obstaculizar | ✅ |
+| 2026-06-05 | Cerradura de la puerta | ✅ |
+| 2026-06-05 | Obedecen | ✅ |
+| 2026-06-05 | Orden | ✅ |
+| 2026-06-05 | Luneta trasera | ✅ |
+| 2026-06-05 | Neumático | ✅ |
+| 2026-06-05 | Apto | ❌ |
