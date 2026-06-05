@@ -92,3 +92,13 @@
 | 2026-06-03 | Herramientas | ✅ |
 | 2026-06-03 | Otros | ✅ |
 | 2026-06-03 | Bombillas | ✅ |
+| 2026-06-05 | Limpiaparabrisas | ✅ |
+| 2026-06-05 | Alcancen | ✅ |
+| 2026-06-05 | Se hallan | ✅ |
+| 2026-06-05 | Techo | ✅ |
+| 2026-06-05 | Cinturón de seguridad | ✅ |
+| 2026-06-05 | Botiquín | ❌ |
+| 2026-06-05 | Obedecen | ❌ |
+| 2026-06-05 | Maletero | ✅ |
+| 2026-06-05 | Apoyados | ❌ |
+| 2026-06-05 | Tapa del depósito | ✅ |
