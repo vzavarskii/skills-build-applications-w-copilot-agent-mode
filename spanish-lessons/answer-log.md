@@ -122,3 +122,13 @@
 | 2026-06-05 | Luneta trasera | ✅ |
 | 2026-06-05 | Neumático | ✅ |
 | 2026-06-05 | Apto | ❌ |
+| 2026-06-05 | Reposacabezas | ✅ |
+| 2026-06-05 | Pecho | ✅ |
+| 2026-06-05 | Tablero de mandos | ✅ |
+| 2026-06-05 | Empañe | ✅ |
+| 2026-06-05 | Acercarse | ✅ |
+| 2026-06-05 | Parrilla delantera | ✅ |
+| 2026-06-05 | Volante | ✅ |
+| 2026-06-05 | Testigos de aviso | ✅ |
+| 2026-06-05 | Tapacubos | ✅ |
+| 2026-06-05 | Destinados | ❌ |
