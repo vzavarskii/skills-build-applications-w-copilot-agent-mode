@@ -102,3 +102,13 @@
 | 2026-06-05 | Maletero | ✅ |
 | 2026-06-05 | Apoyados | ❌ |
 | 2026-06-05 | Tapa del depósito | ✅ |
+| 2026-06-05 | Techo corredizo | ✅ |
+| 2026-06-05 | Abdomen | ✅ |
+| 2026-06-05 | Parabrisas | ✅ |
+| 2026-06-05 | Obedecen | ✅ |
+| 2026-06-05 | Hombro | ✅ |
+| 2026-06-05 | En vigor | ❌ |
+| 2026-06-05 | Capó | ❌ |
+| 2026-06-05 | Clavícula | ✅ |
+| 2026-06-05 | Pantalla | ✅ |
+| 2026-06-05 | Parachoques | ✅ |
