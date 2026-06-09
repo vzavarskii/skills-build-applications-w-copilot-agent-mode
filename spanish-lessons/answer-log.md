@@ -132,3 +132,13 @@
 | 2026-06-05 | Testigos de aviso | ✅ |
 | 2026-06-05 | Tapacubos | ✅ |
 | 2026-06-05 | Destinados | ❌ |
+| 2026-06-09 | Habilitados | ✅ |
+| 2026-06-09 | Por encima | ✅ |
+| 2026-06-09 | Tranvías | ✅ |
+| 2026-06-09 | Obedecen | ✅ |
+| 2026-06-09 | Profundidad | ✅ |
+| 2026-06-09 | Penetrar | ❌ |
+| 2026-06-09 | Adecuadas | ✅ |
+| 2026-06-09 | Ambos | ✅ |
+| 2026-06-09 | Terrenos | ✅ |
+| 2026-06-09 | Cualquier | ✅ |
