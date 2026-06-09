@@ -142,3 +142,13 @@
 | 2026-06-09 | Ambos | ✅ |
 | 2026-06-09 | Terrenos | ✅ |
 | 2026-06-09 | Cualquier | ✅ |
+| 2026-06-09 | Sidecar | ✅ |
+| 2026-06-09 | Apoyados | ✅ |
+| 2026-06-09 | Palanca de cambio | ✅ |
+| 2026-06-09 | Sígalas | ✅ |
+| 2026-06-09 | Contacto | ✅ |
+| 2026-06-09 | Carrocería | ❌ |
+| 2026-06-09 | Altas | ✅ |
+| 2026-06-09 | Para dar con | ❌ |
+| 2026-06-09 | Freno de mano | ✅ |
+| 2026-06-09 | Asiento | ✅ |

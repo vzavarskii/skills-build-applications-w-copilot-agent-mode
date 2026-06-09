@@ -53,10 +53,10 @@
 | Tranvías | трамваи | 3 | 2026-06-09 | → англ. tramway |
 | Destinados | предназначенные | 1 | 2026-06-05 | → англ. destined |
 | Ambos | оба | 3 | 2026-06-09 | → лат. ambo → англ. both |
-| Sidecar | коляска мотоцикла | 2 | 2026-05-27 | → англ. sidecar |
+| Sidecar | коляска мотоцикла | 3 | 2026-06-09 | → англ. sidecar |
 | Pesado | тяжёлый | 2 | 2026-05-29 | peso = вес, pesado = тяжёлый |
 | Derivado | производный | 2 | 2026-05-29 | → англ. derived |
-| Carrocería | кузов | 1 | 2026-05-29 | carro = тележка, carrocería = кузов |
+| Carrocería | кузов | 1 | 2026-06-09 | carro = тележка, carrocería = кузов |
 | Acondicionado | оборудованный / кондиционированный | 2 | 2026-05-29 | → англ. air-conditioned |
 | Tractocamión | тягач | 2 | 2026-05-29 | tractor + camión (грузовик) — тягач |
 | En vigor | действующий | 1 | 2026-06-05 | → англ. in vigor (в силе) |
@@ -127,12 +127,12 @@
 | Reposacabezas | подголовник | 2 | 2026-06-05 | reposa (покой) + cabezas (голова) — подголовник |
 | Tablero de mandos | приборная панель | 2 | 2026-06-05 | tablero = доска, mando = управление |
 | Volante | руль | 2 | 2026-06-05 | volar = летать, volante = вращающийся |
-| Contacto | зажигание | 1 | 2026-05-27 | → англ. contact (контакт = зажигание) |
-| Asiento | сиденье | 1 | 2026-05-27 | asentar = усаживать, asiento = сиденье |
-| Palanca de cambio | рычаг переключения передач | 1 | 2026-05-27 | palanca = рычаг, cambio = смена |
-| Freno de mano | ручной тормоз | 1 | 2026-05-27 | freno = тормоз, mano = рука |
-| Para dar con | чтобы найти, добиться | 1 | 2026-05-27 | dar con = натолкнуться, найти |
-| Sígalas | следуйте им | 0 | 2026-05-29 | seguir = следовать, -las = им (женский род) |
+| Contacto | зажигание | 2 | 2026-06-09 | → англ. contact (контакт = зажигание) |
+| Asiento | сиденье | 2 | 2026-06-09 | asentar = усаживать, asiento = сиденье |
+| Palanca de cambio | рычаг переключения передач | 2 | 2026-06-09 | palanca = рычаг, cambio = смена |
+| Freno de mano | ручной тормоз | 2 | 2026-06-09 | freno = тормоз, mano = рука |
+| Para dar con | чтобы найти, добиться | 1 | 2026-06-09 | dar con = натолкнуться, найти |
+| Sígalas | следуйте им | 1 | 2026-06-09 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 0 | 2026-05-29 | siendo = будучи, ligeramente → англ. lightly |
 | Flexionada | согнутая | 1 | 2026-05-29 | → англ. flexed |
@@ -142,11 +142,11 @@
 | Inclinado | наклонённый | 1 | 2026-05-29 | → англ. inclined |
 | Vertical | вертикальный | 1 | 2026-05-29 | → англ. vertical |
 | Ángulo recto | прямой угол | 1 | 2026-05-29 | ángulo → англ. angle, recto → англ. right |
-| Apoyados | опирающиеся | 0 | 2026-06-05 | apoyar = опираться → англ. support |
+| Apoyados | опирающиеся | 1 | 2026-06-09 | apoyar = опираться → англ. support |
 | Alcancen | доставали | 1 | 2026-06-05 | alcanzar = достигать → англ. reach |
 | Profundidad | глубина | 1 | 2026-06-09 | → англ. profundity |
 | Adecuadas | подходящие | 1 | 2026-06-09 | → англ. adequate |
-| Altas | высоко расположенные | 0 | — | → англ. altitude (высота) |
+| Altas | высоко расположенные | 1 | 2026-06-09 | → англ. altitude (высота) |
 | Lóbulos | мочки (ушей) | 0 | — | → англ. lobes |
 | Queden alineados | были выровнены | 0 | — | quedar = оставаться, alineados → англ. aligned |
 | Cinturón de seguridad | ремень безопасности | 1 | 2026-06-05 | cinturón = пояс, seguridad → англ. security |
