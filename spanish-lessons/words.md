@@ -62,7 +62,7 @@
 | En vigor | действующий | 1 | 2026-06-05 | → англ. in vigor (в силе) |
 | Dispositivo | устройство | 2 | 2026-05-29 | → англ. device |
 | Estridente | пронзительный, резкий | 2 | 2026-06-01 | → англ. strident |
-| Obedecen | подчиняются | 3 | 2026-06-09 | → англ. obey |
+| Obedecen | подчиняются | 3 | 2026-06-10 | → англ. obey |
 | Potencia | мощность | 2 | 2026-06-01 | → англ. potency (мощь) |
 | Pantalla | экран | 2 | 2026-06-05 | как «пантала» — панель-экран |
 | Vaho | пар, запотевание | 2 | 2026-06-01 | звучит как «вáо» — вapap, туман |
@@ -134,20 +134,20 @@
 | Para dar con | чтобы найти, добиться | 1 | 2026-06-09 | dar con = натолкнуться, найти |
 | Sígalas | следуйте им | 1 | 2026-06-09 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
-| Siendo ligeramente | будучи слегка / слегка | 0 | 2026-05-29 | siendo = будучи, ligeramente → англ. lightly |
-| Flexionada | согнутая | 1 | 2026-05-29 | → англ. flexed |
-| Lo más lejos | как можно дальше | 1 | 2026-05-29 | lejos → англ. far, lo más = как можно |
-| Permita | позволяет | 1 | 2026-05-29 | → англ. permit |
-| Respaldo | спинка сиденья | 1 | 2026-05-29 | respaldar = поддерживать сзади, respaldo = спинка |
-| Inclinado | наклонённый | 1 | 2026-05-29 | → англ. inclined |
-| Vertical | вертикальный | 1 | 2026-05-29 | → англ. vertical |
+| Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
+| Flexionada | согнутая | 1 | 2026-06-10 | → англ. flexed |
+| Lo más lejos | как можно дальше | 1 | 2026-06-10 | lejos → англ. far, lo más = как можно |
+| Permita | позволяет | 2 | 2026-06-10 | → англ. permit |
+| Respaldo | спинка сиденья | 2 | 2026-06-10 | respaldar = поддерживать сзади, respaldo = спинка |
+| Inclinado | наклонённый | 1 | 2026-06-10 | → англ. inclined |
+| Vertical | вертикальный | 2 | 2026-06-10 | → англ. vertical |
 | Ángulo recto | прямой угол | 1 | 2026-05-29 | ángulo → англ. angle, recto → англ. right |
 | Apoyados | опирающиеся | 1 | 2026-06-09 | apoyar = опираться → англ. support |
 | Alcancen | доставали | 1 | 2026-06-05 | alcanzar = достигать → англ. reach |
 | Profundidad | глубина | 1 | 2026-06-09 | → англ. profundity |
 | Adecuadas | подходящие | 1 | 2026-06-09 | → англ. adequate |
 | Altas | высоко расположенные | 1 | 2026-06-09 | → англ. altitude (высота) |
-| Lóbulos | мочки (ушей) | 0 | — | → англ. lobes |
+| Lóbulos | мочки (ушей) | 1 | 2026-06-10 | → англ. lobes |
 | Queden alineados | были выровнены | 0 | — | quedar = оставаться, alineados → англ. aligned |
 | Cinturón de seguridad | ремень безопасности | 1 | 2026-06-05 | cinturón = пояс, seguridad → англ. security |
 | Por encima | поверх, выше | 1 | 2026-06-09 | encima = сверху, por = через/по |
@@ -166,7 +166,7 @@
 | Precalentamiento diésel | прогрев дизеля | 0 | — | pre + calentamiento (нагрев) = предварительный нагрев |
 | Pastillas de freno desgastadas | изношенные тормозные колодки | 0 | — | pastilla = таблетка/колодка, desgastadas = изношенные |
 | Nivel de combustible bajo | низкий уровень топлива | 0 | — | nivel → англ. level, combustible = топливо |
-| Fallo del ABS | сбой ABS | 0 | — | fallo → англ. failure |
+| Fallo del ABS | сбой ABS | 1 | 2026-06-10 | fallo → англ. failure |
 | Airbag falla o está desconectado | сбой/отключение подушки безопасности | 0 | — | airbag → англ. airbag, desconectado → disconnected |
 | Fallo dirección asistida | сбой усилителя руля | 0 | — | dirección → англ. direction, asistida → assisted |
 | Lámpara de faro fundida | перегоревшая лампочка | 0 | — | lámpara → англ. lamp, fundida = расплавленная |

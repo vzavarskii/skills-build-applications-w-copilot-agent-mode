@@ -152,3 +152,13 @@
 | 2026-06-09 | Para dar con | ❌ |
 | 2026-06-09 | Freno de mano | ✅ |
 | 2026-06-09 | Asiento | ✅ |
+| 2026-06-10 | Flexionada | ❌ |
+| 2026-06-10 | Lóbulos | ✅ |
+| 2026-06-10 | Permita | ✅ |
+| 2026-06-10 | Obedecen | ✅ |
+| 2026-06-10 | Siendo ligeramente | ✅ |
+| 2026-06-10 | Respaldo | ✅ |
+| 2026-06-10 | Fallo del ABS | ✅ |
+| 2026-06-10 | Vertical | ✅ |
+| 2026-06-10 | Lo más lejos | ❌ |
+| 2026-06-10 | Inclinado | ❌ |
