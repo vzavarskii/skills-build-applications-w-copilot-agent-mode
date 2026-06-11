@@ -17,7 +17,7 @@
 | Tendrán | будут иметь / должны будут | 3 | 2026-06-02 | tener = иметь, будущее время |
 | Lo harán | сделают это | 3 | 2026-06-02 | hacer = делать, lo = это |
 | Provistos | оснащённые, снабжённые | 2 | 2026-06-02 | → англ. provided (снабжённые) |
-| Someterse | подчиняться | 2 | 2026-06-02 | лат. submittere → англ. submit |
+| Someterse | подчиняться | 3 | 2026-06-11 | лат. submittere → англ. submit |
 | Involucrado | вовлечённый | 3 | 2026-06-02 | → англ. involved |
 | Vía pecuaria | скотопрогонная дорога | 3 | 2026-06-02 | pecuaria → лат. pecus (скот) |
 | Mitad | половина | 3 | 2026-06-02 | лат. medietas → исп. mitad, рус. «медиана» |
@@ -30,7 +30,7 @@
 | Dichos | указанные, упомянутые | 3 | 2026-06-02 | decir = говорить, сказанные выше |
 | Aunque | хотя | 3 | 2026-06-02 | aun (даже) + que (что) = «даже что» |
 | Se hallan | находятся | 2 | 2026-06-05 | hallar = находить → англ. hall (найти зал) |
-| Vayan | пусть идут / едут | 2 | 2026-06-02 | ir = идти, vayan — конъюнктив |
+| Vayan | пусть идут / едут | 3 | 2026-06-11 | ir = идти, vayan — конъюнктив |
 | Refugio | убежище, островок безопасности | 3 | 2026-06-02 | → англ. refuge |
 | Sean | являются / пусть будут | 2 | 2026-06-01 | ser = быть, sean — конъюнктив |
 | Tropas | войска | 3 | 2026-06-02 | → англ. troops |
@@ -43,7 +43,7 @@
 | Advertir | предупреждать | 3 | 2026-06-03 | → англ. advertise (оповещать) |
 | Debidamente | должным образом | 2 | 2026-06-01 | debido = должный + -mente |
 | Pretende | намеревается | 1 | 2026-06-03 | → англ. pretend (намереваться, притворяться) |
-| Penetrar | въезжать, проникать | 2 | 2026-06-09 | → англ. penetrate |
+| Penetrar | въезжать, проникать | 3 | 2026-06-11 | → англ. penetrate |
 | Cualquier | любой | 3 | 2026-06-09 | cual (какой) + quier (хочешь) — любой |
 | Apto | подходящий | 1 | 2026-06-05 | → англ. apt (подходящий) |
 | Terrenos | земельные участки, местность | 3 | 2026-06-09 | → англ. terrain |
@@ -104,7 +104,7 @@
 | Preciso | необходимо, обязательно | 2 | 2026-06-03 | → англ. precise (точный, необходимый) |
 | Exentas | освобождённые | 2 | 2026-06-03 | → англ. exempt |
 | Justifique | оправдывает, подтверждает | 2 | 2026-06-03 | → англ. justify |
-| Prescindir | обходиться без, отказаться от | 2 | 2026-06-03 | → англ. prescind (отвлечься от) |
+| Prescindir | обходиться без, отказаться от | 3 | 2026-06-11 | → англ. prescind (отвлечься от) |
 | Incorporación | вливание в поток, присоединение к движению | 2 | 2026-06-03 | → англ. incorporation |
 | Herramientas | инструменты | 2 | 2026-06-03 | herramienta — ferro (железо) → орудие |
 | Otros | другие | 2 | 2026-06-03 | → лат. alter → англ. other |
@@ -135,11 +135,11 @@
 | Sígalas | следуйте им | 1 | 2026-06-09 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
-| Flexionada | согнутая | 1 | 2026-06-10 | → англ. flexed |
-| Lo más lejos | как можно дальше | 1 | 2026-06-10 | lejos → англ. far, lo más = как можно |
+| Flexionada | согнутая | 1 | 2026-06-11 | → англ. flexed |
+| Lo más lejos | как можно дальше | 2 | 2026-06-11 | lejos → англ. far, lo más = как можно |
 | Permita | позволяет | 2 | 2026-06-10 | → англ. permit |
 | Respaldo | спинка сиденья | 2 | 2026-06-10 | respaldar = поддерживать сзади, respaldo = спинка |
-| Inclinado | наклонённый | 1 | 2026-06-10 | → англ. inclined |
+| Inclinado | наклонённый | 2 | 2026-06-11 | → англ. inclined |
 | Vertical | вертикальный | 2 | 2026-06-10 | → англ. vertical |
 | Ángulo recto | прямой угол | 1 | 2026-05-29 | ángulo → англ. angle, recto → англ. right |
 | Apoyados | опирающиеся | 1 | 2026-06-09 | apoyar = опираться → англ. support |
@@ -162,10 +162,10 @@
 | Profundidad adecuadas | подходящая глубина | 0 | — | profundidad → англ. profundity, adecuadas → adequate |
 | Testigos de aviso | индикаторы предупреждения | 1 | 2026-06-05 | testigo = свидетель, aviso = предупреждение |
 | Acercarse | подъехать, приблизиться | 1 | 2026-06-05 | acercar = приближать → англ. approach |
-| Control de tracción/estabilidad | контроль тяги/устойчивости | 0 | — | tracción → англ. traction, estabilidad → stability |
+| Control de tracción/estabilidad | контроль тяги/устойчивости | 1 | 2026-06-11 | tracción → англ. traction, estabilidad → stability |
 | Precalentamiento diésel | прогрев дизеля | 0 | — | pre + calentamiento (нагрев) = предварительный нагрев |
 | Pastillas de freno desgastadas | изношенные тормозные колодки | 0 | — | pastilla = таблетка/колодка, desgastadas = изношенные |
-| Nivel de combustible bajo | низкий уровень топлива | 0 | — | nivel → англ. level, combustible = топливо |
+| Nivel de combustible bajo | низкий уровень топлива | 1 | 2026-06-11 | nivel → англ. level, combustible = топливо |
 | Fallo del ABS | сбой ABS | 1 | 2026-06-10 | fallo → англ. failure |
 | Airbag falla o está desconectado | сбой/отключение подушки безопасности | 0 | — | airbag → англ. airbag, desconectado → disconnected |
 | Fallo dirección asistida | сбой усилителя руля | 0 | — | dirección → англ. direction, asistida → assisted |
@@ -174,7 +174,7 @@
 | Comprobar el nivel de aceite | проверить уровень масла | 0 | — | comprobar → англ. check, aceite = масло |
 | Líquido limpiaparabrisas | жидкость омывателя | 0 | — | líquido → англ. liquid, limpiaparabrisas = очиститель |
 | Presión de inflado de ruedas | давление подкачки колёс | 0 | — | presión → англ. pressure, inflado → inflated |
-| Freno | тормоз | 0 | — | → англ. frenetic (тормозить порывы) |
+| Freno | тормоз | 1 | 2026-06-11 | → англ. frenetic (тормозить порывы) |
 | Acelerador | акселератор, газ | 0 | — | → англ. accelerator |
 | Guantera | бардачок | 0 | — | guante = перчатка, guantera = перчаточный ящик |
 | Climatizador | климатизатор | 0 | — | → англ. climate control |

@@ -162,3 +162,13 @@
 | 2026-06-10 | Vertical | ✅ |
 | 2026-06-10 | Lo más lejos | ❌ |
 | 2026-06-10 | Inclinado | ❌ |
+| 2026-06-11 | Someterse | ✅ |
+| 2026-06-11 | Freno | ✅ |
+| 2026-06-11 | Lo más lejos | ✅ |
+| 2026-06-11 | Penetrar | ✅ |
+| 2026-06-11 | Control de tracción/estabilidad | ✅ |
+| 2026-06-11 | Flexionada | ❌ |
+| 2026-06-11 | Vayan | ✅ |
+| 2026-06-11 | Nivel de combustible bajo | ✅ |
+| 2026-06-11 | Inclinado | ✅ |
+| 2026-06-11 | Prescindir | ✅ |
