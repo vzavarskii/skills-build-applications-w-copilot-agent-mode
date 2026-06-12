@@ -172,3 +172,13 @@
 | 2026-06-11 | Nivel de combustible bajo | ✅ |
 | 2026-06-11 | Inclinado | ✅ |
 | 2026-06-11 | Prescindir | ✅ |
+| 2026-06-12 | Guantera | ✅ |
+| 2026-06-12 | Flexionada | ✅ |
+| 2026-06-12 | Acelerador | ✅ |
+| 2026-06-12 | Capó | ✅ |
+| 2026-06-12 | Para dar con | ✅ |
+| 2026-06-12 | Ángulo recto | ✅ |
+| 2026-06-12 | Queden alineados | ✅ |
+| 2026-06-12 | Acondicionado | ✅ |
+| 2026-06-12 | Carrocería | ✅ |
+| 2026-06-12 | Pesado | ✅ |

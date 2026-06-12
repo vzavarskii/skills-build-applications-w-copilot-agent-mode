@@ -54,10 +54,10 @@
 | Destinados | предназначенные | 1 | 2026-06-05 | → англ. destined |
 | Ambos | оба | 3 | 2026-06-09 | → лат. ambo → англ. both |
 | Sidecar | коляска мотоцикла | 3 | 2026-06-09 | → англ. sidecar |
-| Pesado | тяжёлый | 2 | 2026-05-29 | peso = вес, pesado = тяжёлый |
+| Pesado | тяжёлый | 3 | 2026-06-12 | peso = вес, pesado = тяжёлый |
 | Derivado | производный | 2 | 2026-05-29 | → англ. derived |
-| Carrocería | кузов | 1 | 2026-06-09 | carro = тележка, carrocería = кузов |
-| Acondicionado | оборудованный / кондиционированный | 2 | 2026-05-29 | → англ. air-conditioned |
+| Carrocería | кузов | 2 | 2026-06-12 | carro = тележка, carrocería = кузов |
+| Acondicionado | оборудованный / кондиционированный | 3 | 2026-06-12 | → англ. air-conditioned |
 | Tractocamión | тягач | 2 | 2026-05-29 | tractor + camión (грузовик) — тягач |
 | En vigor | действующий | 1 | 2026-06-05 | → англ. in vigor (в силе) |
 | Dispositivo | устройство | 2 | 2026-05-29 | → англ. device |
@@ -118,7 +118,7 @@
 | Techo corredizo | люк, сдвижная крыша | 2 | 2026-06-05 | techo = крыша, corredizo = скользящий |
 | Parabrisas | лобовое стекло | 2 | 2026-06-05 | para (защита) + brisa (бриза) — ветрозащита |
 | Cerradura de la puerta | дверной замок | 2 | 2026-06-05 | cerrar = закрывать, cerradura = замок |
-| Capó | капот | 1 | 2026-06-05 | → фр. capot → рус. капот |
+| Capó | капот | 2 | 2026-06-12 | → фр. capot → рус. капот |
 | Guardabarros | крыло, брызговик | 2 | 2026-06-05 | guarda (охрана) + barros (грязь) — грязезащита |
 | Intermitente | поворотник | 2 | 2026-06-05 | → англ. intermittent (мигающий) |
 | Parrilla delantera | решётка радиатора | 2 | 2026-06-05 | parrilla = решётка-гриль спереди |
@@ -131,24 +131,24 @@
 | Asiento | сиденье | 2 | 2026-06-09 | asentar = усаживать, asiento = сиденье |
 | Palanca de cambio | рычаг переключения передач | 2 | 2026-06-09 | palanca = рычаг, cambio = смена |
 | Freno de mano | ручной тормоз | 2 | 2026-06-09 | freno = тормоз, mano = рука |
-| Para dar con | чтобы найти, добиться | 1 | 2026-06-09 | dar con = натолкнуться, найти |
+| Para dar con | чтобы найти, добиться | 2 | 2026-06-12 | dar con = натолкнуться, найти |
 | Sígalas | следуйте им | 1 | 2026-06-09 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
-| Flexionada | согнутая | 1 | 2026-06-11 | → англ. flexed |
+| Flexionada | согнутая | 2 | 2026-06-12 | → англ. flexed |
 | Lo más lejos | как можно дальше | 2 | 2026-06-11 | lejos → англ. far, lo más = как можно |
 | Permita | позволяет | 2 | 2026-06-10 | → англ. permit |
 | Respaldo | спинка сиденья | 2 | 2026-06-10 | respaldar = поддерживать сзади, respaldo = спинка |
 | Inclinado | наклонённый | 2 | 2026-06-11 | → англ. inclined |
 | Vertical | вертикальный | 2 | 2026-06-10 | → англ. vertical |
-| Ángulo recto | прямой угол | 1 | 2026-05-29 | ángulo → англ. angle, recto → англ. right |
+| Ángulo recto | прямой угол | 2 | 2026-06-12 | ángulo → англ. angle, recto → англ. right |
 | Apoyados | опирающиеся | 1 | 2026-06-09 | apoyar = опираться → англ. support |
 | Alcancen | доставали | 1 | 2026-06-05 | alcanzar = достигать → англ. reach |
 | Profundidad | глубина | 1 | 2026-06-09 | → англ. profundity |
 | Adecuadas | подходящие | 1 | 2026-06-09 | → англ. adequate |
 | Altas | высоко расположенные | 1 | 2026-06-09 | → англ. altitude (высота) |
 | Lóbulos | мочки (ушей) | 1 | 2026-06-10 | → англ. lobes |
-| Queden alineados | были выровнены | 0 | — | quedar = оставаться, alineados → англ. aligned |
+| Queden alineados | были выровнены | 1 | 2026-06-12 | quedar = оставаться, alineados → англ. aligned |
 | Cinturón de seguridad | ремень безопасности | 1 | 2026-06-05 | cinturón = пояс, seguridad → англ. security |
 | Por encima | поверх, выше | 1 | 2026-06-09 | encima = сверху, por = через/по |
 | Hombro | плечо | 1 | 2026-06-05 | звучит как «омбро» — как рус. «рамо» |
@@ -175,8 +175,8 @@
 | Líquido limpiaparabrisas | жидкость омывателя | 0 | — | líquido → англ. liquid, limpiaparabrisas = очиститель |
 | Presión de inflado de ruedas | давление подкачки колёс | 0 | — | presión → англ. pressure, inflado → inflated |
 | Freno | тормоз | 1 | 2026-06-11 | → англ. frenetic (тормозить порывы) |
-| Acelerador | акселератор, газ | 0 | — | → англ. accelerator |
-| Guantera | бардачок | 0 | — | guante = перчатка, guantera = перчаточный ящик |
+| Acelerador | акселератор, газ | 1 | 2026-06-12 | → англ. accelerator |
+| Guantera | бардачок | 1 | 2026-06-12 | guante = перчатка, guantera = перчаточный ящик |
 | Climatizador | климатизатор | 0 | — | → англ. climate control |
 | Sistema de audio | аудиосистема | 0 | — | → англ. audio system |
 | Encendedor de mechero | прикуриватель | 0 | — | encender = зажигать, mechero = зажигалка |
