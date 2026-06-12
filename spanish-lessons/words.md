@@ -2,7 +2,7 @@
 
 | Испанский | Русский | Уровень (0-3) | Последний повтор | Мнемоника |
 |-----------|---------|:-------------:|:----------------:|----------|
-| Pastores de ganado | пастухи скота | 2 | 2026-05-29 | pastor → англ. pastor (пастырь) |
+| Pastores de ganado | пастухи скота | 3 | 2026-06-12 | pastor → англ. pastor (пастырь) |
 | Cabezas aisladas | отдельные головы скота / одиночные животные | 3 | 2026-06-01 | cabeza = голова, aisladas → англ. isolated |
 | Jinetes | всадники | 3 | 2026-06-01 | jinete — как «жинет», всадник скачет |
 | Aprendizaje | обучение | 3 | 2026-06-01 | aprender = учить → англ. apprentice |
@@ -45,22 +45,22 @@
 | Pretende | намеревается | 1 | 2026-06-03 | → англ. pretend (намереваться, притворяться) |
 | Penetrar | въезжать, проникать | 3 | 2026-06-11 | → англ. penetrate |
 | Cualquier | любой | 3 | 2026-06-09 | cual (какой) + quier (хочешь) — любой |
-| Apto | подходящий | 1 | 2026-06-05 | → англ. apt (подходящий) |
+| Apto | подходящий | 1 | 2026-06-12 | → англ. apt (подходящий) |
 | Terrenos | земельные участки, местность | 3 | 2026-06-09 | → англ. terrain |
 | Habilitados | разрешённые, оборудованные | 3 | 2026-06-09 | → англ. habilitated (оснащённые) |
 | Propulsión | двигатель, привод | 1 | 2026-06-03 | → англ. propulsion |
 | Así como | так же как и | 2 | 2026-06-03 | así = так, como = как |
 | Tranvías | трамваи | 3 | 2026-06-09 | → англ. tramway |
-| Destinados | предназначенные | 1 | 2026-06-05 | → англ. destined |
+| Destinados | предназначенные | 1 | 2026-06-12 | → англ. destined |
 | Ambos | оба | 3 | 2026-06-09 | → лат. ambo → англ. both |
 | Sidecar | коляска мотоцикла | 3 | 2026-06-09 | → англ. sidecar |
 | Pesado | тяжёлый | 3 | 2026-06-12 | peso = вес, pesado = тяжёлый |
-| Derivado | производный | 2 | 2026-05-29 | → англ. derived |
+| Derivado | производный | 3 | 2026-06-12 | → англ. derived |
 | Carrocería | кузов | 2 | 2026-06-12 | carro = тележка, carrocería = кузов |
 | Acondicionado | оборудованный / кондиционированный | 3 | 2026-06-12 | → англ. air-conditioned |
 | Tractocamión | тягач | 2 | 2026-05-29 | tractor + camión (грузовик) — тягач |
-| En vigor | действующий | 1 | 2026-06-05 | → англ. in vigor (в силе) |
-| Dispositivo | устройство | 2 | 2026-05-29 | → англ. device |
+| En vigor | действующий | 2 | 2026-06-12 | → англ. in vigor (в силе) |
+| Dispositivo | устройство | 3 | 2026-06-12 | → англ. device |
 | Estridente | пронзительный, резкий | 2 | 2026-06-01 | → англ. strident |
 | Obedecen | подчиняются | 3 | 2026-06-10 | → англ. obey |
 | Potencia | мощность | 2 | 2026-06-01 | → англ. potency (мощь) |
@@ -109,7 +109,7 @@
 | Herramientas | инструменты | 2 | 2026-06-03 | herramienta — ferro (железо) → орудие |
 | Otros | другие | 2 | 2026-06-03 | → лат. alter → англ. other |
 | Bombillas | лампочки | 2 | 2026-06-03 | bombilla = «бомбочка» — маленький шар света |
-| Botiquín | аптечка | 1 | 2026-06-05 | botica = аптека, botiquín = аптечка |
+| Botiquín | аптечка | 2 | 2026-06-12 | botica = аптека, botiquín = аптечка |
 | Techo | крыша | 2 | 2026-06-05 | звучит как «тэчо» — «течёт» крыша |
 | Limpiaparabrisas | стеклоочиститель, дворник | 2 | 2026-06-05 | limpiar (чистить) + parabrisas (лобовое стекло) |
 | Tapa del depósito | крышка топливного бака | 2 | 2026-06-05 | tapa = крышка, depósito → англ. deposit |
@@ -153,7 +153,7 @@
 | Por encima | поверх, выше | 1 | 2026-06-09 | encima = сверху, por = через/по |
 | Hombro | плечо | 1 | 2026-06-05 | звучит как «омбро» — как рус. «рамо» |
 | Clavícula | ключица | 1 | 2026-06-05 | → англ. clavicle |
-| Cíñalo | плотно пристегните / прижмите | 0 | — | ceñir = стягивать, → англ. cinch |
+| Cíñalo | плотно пристегните / прижмите | 1 | 2026-06-12 | ceñir = стягивать, → англ. cinch |
 | Pecho | грудь | 1 | 2026-06-05 | звучит как «пэчо» — грудная клетка |
 | Abdomen | живот | 1 | 2026-06-05 | → англ. abdomen |
 | Luneta trasera | заднее стекло | 1 | 2026-06-05 | luneta = маленькая луна (овальное стекло) |
@@ -170,14 +170,14 @@
 | Airbag falla o está desconectado | сбой/отключение подушки безопасности | 0 | — | airbag → англ. airbag, desconectado → disconnected |
 | Fallo dirección asistida | сбой усилителя руля | 0 | — | dirección → англ. direction, asistida → assisted |
 | Lámpara de faro fundida | перегоревшая лампочка | 0 | — | lámpara → англ. lamp, fundida = расплавленная |
-| Fallo de motor | сбой двигателя | 0 | — | fallo → англ. failure, motor → англ. motor |
+| Fallo de motor | сбой двигателя | 1 | 2026-06-12 | fallo → англ. failure, motor → англ. motor |
 | Comprobar el nivel de aceite | проверить уровень масла | 0 | — | comprobar → англ. check, aceite = масло |
 | Líquido limpiaparabrisas | жидкость омывателя | 0 | — | líquido → англ. liquid, limpiaparabrisas = очиститель |
 | Presión de inflado de ruedas | давление подкачки колёс | 0 | — | presión → англ. pressure, inflado → inflated |
 | Freno | тормоз | 1 | 2026-06-11 | → англ. frenetic (тормозить порывы) |
 | Acelerador | акселератор, газ | 1 | 2026-06-12 | → англ. accelerator |
 | Guantera | бардачок | 1 | 2026-06-12 | guante = перчатка, guantera = перчаточный ящик |
-| Climatizador | климатизатор | 0 | — | → англ. climate control |
+| Climatizador | климатизатор | 1 | 2026-06-12 | → англ. climate control |
 | Sistema de audio | аудиосистема | 0 | — | → англ. audio system |
 | Encendedor de mechero | прикуриватель | 0 | — | encender = зажигать, mechero = зажигалка |
 | Consola central | центральная консоль | 0 | — | → англ. center console |

@@ -182,3 +182,13 @@
 | 2026-06-12 | Acondicionado | ✅ |
 | 2026-06-12 | Carrocería | ✅ |
 | 2026-06-12 | Pesado | ✅ |
+| 2026-06-12 | En vigor | ✅ |
+| 2026-06-12 | Fallo de motor | ✅ |
+| 2026-06-12 | Pastores de ganado | ✅ |
+| 2026-06-12 | Cíñalo | ✅ |
+| 2026-06-12 | Apto | ❌ |
+| 2026-06-12 | Climatizador | ✅ |
+| 2026-06-12 | Botiquín | ✅ |
+| 2026-06-12 | Derivado | ✅ |
+| 2026-06-12 | Destinados | ❌ |
+| 2026-06-12 | Dispositivo | ✅ |
