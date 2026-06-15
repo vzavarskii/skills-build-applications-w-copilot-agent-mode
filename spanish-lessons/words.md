@@ -16,13 +16,13 @@
 | Tanto por … como por … | как …, так и … | 3 | 2026-06-02 | tanto = столько, como = как |
 | Tendrán | будут иметь / должны будут | 3 | 2026-06-02 | tener = иметь, будущее время |
 | Lo harán | сделают это | 3 | 2026-06-02 | hacer = делать, lo = это |
-| Provistos | оснащённые, снабжённые | 2 | 2026-06-02 | → англ. provided (снабжённые) |
+| Provistos | оснащённые, снабжённые | 3 | 2026-06-15 | → англ. provided (снабжённые) |
 | Someterse | подчиняться | 3 | 2026-06-11 | лат. submittere → англ. submit |
 | Involucrado | вовлечённый | 3 | 2026-06-02 | → англ. involved |
 | Vía pecuaria | скотопрогонная дорога | 3 | 2026-06-02 | pecuaria → лат. pecus (скот) |
 | Mitad | половина | 3 | 2026-06-02 | лат. medietas → исп. mitad, рус. «медиана» |
 | Así lo aconsejan | так рекомендуется | 3 | 2026-06-02 | así = так, aconsejar = советовать |
-| Ante | перед, при | 2 | 2026-06-15 | → англ. ante (перед, ставка) |
+| Ante | перед, при | 3 | 2026-06-15 | → англ. ante (перед, ставка) |
 | Tracción | тяга, привод | 3 | 2026-06-02 | → англ. traction |
 | Demás | остальные | 2 | 2026-06-01 | de más — «ещё больше», остальные |
 | Salvo | кроме, за исключением | 3 | 2026-06-02 | → англ. save (кроме, за исключением) |
@@ -45,7 +45,7 @@
 | Pretende | намеревается | 1 | 2026-06-03 | → англ. pretend (намереваться, притворяться) |
 | Penetrar | въезжать, проникать | 3 | 2026-06-11 | → англ. penetrate |
 | Cualquier | любой | 3 | 2026-06-09 | cual (какой) + quier (хочешь) — любой |
-| Apto | подходящий | 1 | 2026-06-12 | → англ. apt (подходящий) |
+| Apto | подходящий | 2 | 2026-06-15 | → англ. apt (подходящий) |
 | Terrenos | земельные участки, местность | 3 | 2026-06-09 | → англ. terrain |
 | Habilitados | разрешённые, оборудованные | 3 | 2026-06-09 | → англ. habilitated (оснащённые) |
 | Propulsión | двигатель, привод | 1 | 2026-06-03 | → англ. propulsion |
@@ -69,14 +69,14 @@
 | Empañe | запотевание, помутнение | 2 | 2026-06-05 | empaño — «завесить паном», помутнение |
 | Calzado | обувь | 2 | 2026-06-01 | calzar = обувать, calzado = обутый |
 | Adecuado | подходящий | 2 | 2026-06-02 | → англ. adequate |
-| Cuero | кожа, кожаный | 1 | 2026-06-02 | звучит как «куэро» — коричневая кожа |
+| Cuero | кожа, кожаный | 2 | 2026-06-15 | звучит как «куэро» — коричневая кожа |
 | Llamativos | яркие, броские | 1 | 2026-06-02 | llamar = звать, llamativo = бросающийся в глаза |
 | Guantes | перчатки | 2 | 2026-06-02 | → англ. gauntlets (перчатки-краги) |
 | Agarre firme | крепкий хват | 2 | 2026-06-02 | agarrar = хватать, firme = крепкий |
 | Manejo | управление | 2 | 2026-06-02 | → англ. manage (управлять) |
 | Alcance | радиус действия / досягаемость | 1 | 2026-06-02 | alcanzar = достигать → англ. reach |
 | Intermitentes | поворотники | 2 | 2026-06-02 | → англ. intermittent (мигающий) |
-| Estrangulador | подсос (в двигателе) | 1 | 2026-06-15 | → англ. strangler (душитель воздуха) |
+| Estrangulador | подсос (в двигателе) | 2 | 2026-06-15 | → англ. strangler (душитель воздуха) |
 | Direccionales | указатели поворота, поворотники | 1 | 2026-06-02 | → англ. directional (направляющий) |
 | Corte de ignición | выключение зажигания | 2 | 2026-06-02 | corte = отрезок, ignición → англ. ignition |
 | Botón de arranque | кнопка запуска двигателя | 2 | 2026-06-02 | botón = кнопка, arranque = запуск |
@@ -144,13 +144,13 @@
 | Ángulo recto | прямой угол | 2 | 2026-06-12 | ángulo → англ. angle, recto → англ. right |
 | Apoyados | опирающиеся | 1 | 2026-06-09 | apoyar = опираться → англ. support |
 | Alcancen | доставали | 1 | 2026-06-05 | alcanzar = достигать → англ. reach |
-| Profundidad | глубина | 1 | 2026-06-15 | → англ. profundity |
+| Profundidad | глубина | 2 | 2026-06-15 | → англ. profundity |
 | Adecuadas | подходящие | 1 | 2026-06-09 | → англ. adequate |
 | Altas | высоко расположенные | 1 | 2026-06-09 | → англ. altitude (высота) |
 | Lóbulos | мочки (ушей) | 1 | 2026-06-10 | → англ. lobes |
 | Queden alineados | были выровнены | 1 | 2026-06-12 | quedar = оставаться, alineados → англ. aligned |
 | Cinturón de seguridad | ремень безопасности | 1 | 2026-06-05 | cinturón = пояс, seguridad → англ. security |
-| Por encima | поверх, выше | 1 | 2026-06-15 | encima = сверху, por = через/по |
+| Por encima | поверх, выше | 2 | 2026-06-15 | encima = сверху, por = через/по |
 | Hombro | плечо | 1 | 2026-06-05 | звучит как «омбро» — как рус. «рамо» |
 | Clavícula | ключица | 1 | 2026-06-05 | → англ. clavicle |
 | Cíñalo | плотно пристегните / прижмите | 1 | 2026-06-12 | ceñir = стягивать, → англ. cinch |
@@ -164,14 +164,14 @@
 | Acercarse | подъехать, приблизиться | 1 | 2026-06-05 | acercar = приближать → англ. approach |
 | Control de tracción/estabilidad | контроль тяги/устойчивости | 1 | 2026-06-11 | tracción → англ. traction, estabilidad → stability |
 | Precalentamiento diésel | прогрев дизеля | 0 | — | pre + calentamiento (нагрев) = предварительный нагрев |
-| Pastillas de freno desgastadas | изношенные тормозные колодки | 0 | — | pastilla = таблетка/колодка, desgastadas = изношенные |
+| Pastillas de freno desgastadas | изношенные тормозные колодки | 1 | 2026-06-15 | pastilla = таблетка/колодка, desgastadas = изношенные |
 | Nivel de combustible bajo | низкий уровень топлива | 1 | 2026-06-11 | nivel → англ. level, combustible = топливо |
 | Fallo del ABS | сбой ABS | 1 | 2026-06-10 | fallo → англ. failure |
 | Airbag falla o está desconectado | сбой/отключение подушки безопасности | 0 | — | airbag → англ. airbag, desconectado → disconnected |
-| Fallo dirección asistida | сбой усилителя руля | 0 | — | dirección → англ. direction, asistida → assisted |
+| Fallo dirección asistida | сбой усилителя руля | 1 | 2026-06-15 | dirección → англ. direction, asistida → assisted |
 | Lámpara de faro fundida | перегоревшая лампочка | 0 | — | lámpara → англ. lamp, fundida = расплавленная |
 | Fallo de motor | сбой двигателя | 1 | 2026-06-12 | fallo → англ. failure, motor → англ. motor |
-| Comprobar el nivel de aceite | проверить уровень масла | 0 | — | comprobar → англ. check, aceite = масло |
+| Comprobar el nivel de aceite | проверить уровень масла | 1 | 2026-06-15 | comprobar → англ. check, aceite = масло |
 | Líquido limpiaparabrisas | жидкость омывателя | 0 | — | líquido → англ. liquid, limpiaparabrisas = очиститель |
 | Presión de inflado de ruedas | давление подкачки колёс | 0 | — | presión → англ. pressure, inflado → inflated |
 | Freno | тормоз | 1 | 2026-06-11 | → англ. frenetic (тормозить порывы) |

@@ -202,3 +202,13 @@
 | 2026-06-15 | Estrangulador | ❌ |
 | 2026-06-15 | Elevalunas eléctrico | ✅ |
 | 2026-06-15 | Sígalas | ❌ |
+| 2026-06-15 | Cuero | ✅ |
+| 2026-06-15 | Pastillas de freno desgastadas | ✅ |
+| 2026-06-15 | Ante | ✅ |
+| 2026-06-15 | Provistos | ✅ |
+| 2026-06-15 | Fallo dirección asistida | ✅ |
+| 2026-06-15 | Por encima | ✅ |
+| 2026-06-15 | Apto | ✅ |
+| 2026-06-15 | Comprobar el nivel de aceite | ✅ |
+| 2026-06-15 | Estrangulador | ✅ |
+| 2026-06-15 | Profundidad | ✅ |
