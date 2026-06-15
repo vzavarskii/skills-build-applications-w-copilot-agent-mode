@@ -192,3 +192,13 @@
 | 2026-06-12 | Derivado | ✅ |
 | 2026-06-12 | Destinados | ❌ |
 | 2026-06-12 | Dispositivo | ✅ |
+| 2026-06-15 | Combustible | ✅ |
+| 2026-06-15 | Sistema de audio | ✅ |
+| 2026-06-15 | Profundidad | ❌ |
+| 2026-06-15 | Tractocamión | ✅ |
+| 2026-06-15 | Consola central | ✅ |
+| 2026-06-15 | Ante | ❌ |
+| 2026-06-15 | Por encima | ❌ |
+| 2026-06-15 | Estrangulador | ❌ |
+| 2026-06-15 | Elevalunas eléctrico | ✅ |
+| 2026-06-15 | Sígalas | ❌ |

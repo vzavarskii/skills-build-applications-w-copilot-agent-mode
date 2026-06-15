@@ -22,7 +22,7 @@
 | Vía pecuaria | скотопрогонная дорога | 3 | 2026-06-02 | pecuaria → лат. pecus (скот) |
 | Mitad | половина | 3 | 2026-06-02 | лат. medietas → исп. mitad, рус. «медиана» |
 | Así lo aconsejan | так рекомендуется | 3 | 2026-06-02 | así = так, aconsejar = советовать |
-| Ante | перед, при | 2 | 2026-06-02 | → англ. ante (перед, ставка) |
+| Ante | перед, при | 2 | 2026-06-15 | → англ. ante (перед, ставка) |
 | Tracción | тяга, привод | 3 | 2026-06-02 | → англ. traction |
 | Demás | остальные | 2 | 2026-06-01 | de más — «ещё больше», остальные |
 | Salvo | кроме, за исключением | 3 | 2026-06-02 | → англ. save (кроме, за исключением) |
@@ -58,7 +58,7 @@
 | Derivado | производный | 3 | 2026-06-12 | → англ. derived |
 | Carrocería | кузов | 2 | 2026-06-12 | carro = тележка, carrocería = кузов |
 | Acondicionado | оборудованный / кондиционированный | 3 | 2026-06-12 | → англ. air-conditioned |
-| Tractocamión | тягач | 2 | 2026-05-29 | tractor + camión (грузовик) — тягач |
+| Tractocamión | тягач | 3 | 2026-06-15 | tractor + camión (грузовик) — тягач |
 | En vigor | действующий | 2 | 2026-06-12 | → англ. in vigor (в силе) |
 | Dispositivo | устройство | 3 | 2026-06-12 | → англ. device |
 | Estridente | пронзительный, резкий | 2 | 2026-06-01 | → англ. strident |
@@ -76,12 +76,12 @@
 | Manejo | управление | 2 | 2026-06-02 | → англ. manage (управлять) |
 | Alcance | радиус действия / досягаемость | 1 | 2026-06-02 | alcanzar = достигать → англ. reach |
 | Intermitentes | поворотники | 2 | 2026-06-02 | → англ. intermittent (мигающий) |
-| Estrangulador | подсос (в двигателе) | 1 | 2026-06-02 | → англ. strangler (душитель воздуха) |
+| Estrangulador | подсос (в двигателе) | 1 | 2026-06-15 | → англ. strangler (душитель воздуха) |
 | Direccionales | указатели поворота, поворотники | 1 | 2026-06-02 | → англ. directional (направляющий) |
 | Corte de ignición | выключение зажигания | 2 | 2026-06-02 | corte = отрезок, ignición → англ. ignition |
 | Botón de arranque | кнопка запуска двигателя | 2 | 2026-06-02 | botón = кнопка, arranque = запуск |
 | Patilla de arranque auxiliar | вспомогательная пусковая ножка / кикстартер | 1 | 2026-06-02 | patilla = ножка, arranque = запуск |
-| Combustible | топливо | 1 | 2026-06-02 | → англ. combustible |
+| Combustible | топливо | 2 | 2026-06-15 | → англ. combustible |
 | Odómetro | одометр, счётчик пробега | 2 | 2026-06-02 | → англ. odometer |
 | Pito | гудок, сигнал | 2 | 2026-06-02 | звучит как «пито» — пипикает |
 | Bocina | клаксон, звуковой сигнал | 2 | 2026-06-02 | → англ. bugle (горн, сигнал) |
@@ -132,7 +132,7 @@
 | Palanca de cambio | рычаг переключения передач | 2 | 2026-06-09 | palanca = рычаг, cambio = смена |
 | Freno de mano | ручной тормоз | 2 | 2026-06-09 | freno = тормоз, mano = рука |
 | Para dar con | чтобы найти, добиться | 2 | 2026-06-12 | dar con = натолкнуться, найти |
-| Sígalas | следуйте им | 1 | 2026-06-09 | seguir = следовать, -las = им (женский род) |
+| Sígalas | следуйте им | 1 | 2026-06-15 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
 | Flexionada | согнутая | 2 | 2026-06-12 | → англ. flexed |
@@ -144,13 +144,13 @@
 | Ángulo recto | прямой угол | 2 | 2026-06-12 | ángulo → англ. angle, recto → англ. right |
 | Apoyados | опирающиеся | 1 | 2026-06-09 | apoyar = опираться → англ. support |
 | Alcancen | доставали | 1 | 2026-06-05 | alcanzar = достигать → англ. reach |
-| Profundidad | глубина | 1 | 2026-06-09 | → англ. profundity |
+| Profundidad | глубина | 1 | 2026-06-15 | → англ. profundity |
 | Adecuadas | подходящие | 1 | 2026-06-09 | → англ. adequate |
 | Altas | высоко расположенные | 1 | 2026-06-09 | → англ. altitude (высота) |
 | Lóbulos | мочки (ушей) | 1 | 2026-06-10 | → англ. lobes |
 | Queden alineados | были выровнены | 1 | 2026-06-12 | quedar = оставаться, alineados → англ. aligned |
 | Cinturón de seguridad | ремень безопасности | 1 | 2026-06-05 | cinturón = пояс, seguridad → англ. security |
-| Por encima | поверх, выше | 1 | 2026-06-09 | encima = сверху, por = через/по |
+| Por encima | поверх, выше | 1 | 2026-06-15 | encima = сверху, por = через/по |
 | Hombro | плечо | 1 | 2026-06-05 | звучит как «омбро» — как рус. «рамо» |
 | Clavícula | ключица | 1 | 2026-06-05 | → англ. clavicle |
 | Cíñalo | плотно пристегните / прижмите | 1 | 2026-06-12 | ceñir = стягивать, → англ. cinch |
@@ -178,9 +178,9 @@
 | Acelerador | акселератор, газ | 1 | 2026-06-12 | → англ. accelerator |
 | Guantera | бардачок | 1 | 2026-06-12 | guante = перчатка, guantera = перчаточный ящик |
 | Climatizador | климатизатор | 1 | 2026-06-12 | → англ. climate control |
-| Sistema de audio | аудиосистема | 0 | — | → англ. audio system |
+| Sistema de audio | аудиосистема | 1 | 2026-06-15 | → англ. audio system |
 | Encendedor de mechero | прикуриватель | 0 | — | encender = зажигать, mechero = зажигалка |
-| Consola central | центральная консоль | 0 | — | → англ. center console |
-| Elevalunas eléctrico | электрический стеклоподъёмник | 0 | — | eleva (поднимает) + lunas (стёкла) = стеклоподъёмник |
+| Consola central | центральная консоль | 1 | 2026-06-15 | → англ. center console |
+| Elevalunas eléctrico | электрический стеклоподъёмник | 1 | 2026-06-15 | eleva (поднимает) + lunas (стёкла) = стеклоподъёмник |
 | Alfombrillas | коврики | 0 | — | alfombra = ковёр, alfombrilla = коврик |
 | Mando apertura del capó o depósito | рычаг открытия капота или бака | 0 | — | mando = рычаг, apertura → англ. aperture (открытие) |
