@@ -212,3 +212,13 @@
 | 2026-06-15 | Comprobar el nivel de aceite | ✅ |
 | 2026-06-15 | Estrangulador | ✅ |
 | 2026-06-15 | Profundidad | ✅ |
+| 2026-06-15 | Propulsión | ❌ |
+| 2026-06-15 | Airbag falla o está desconectado | ✅ |
+| 2026-06-15 | Destinados | ✅ |
+| 2026-06-15 | Llamativos | ❌ |
+| 2026-06-15 | Lámpara de faro fundida | ✅ |
+| 2026-06-15 | Sígalas | ✅ |
+| 2026-06-15 | Alcance | ✅ |
+| 2026-06-15 | Presión de inflado de ruedas | ✅ |
+| 2026-06-15 | Siendo | ❌ |
+| 2026-06-15 | Exentas | ✅ |

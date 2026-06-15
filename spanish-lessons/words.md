@@ -48,10 +48,10 @@
 | Apto | подходящий | 2 | 2026-06-15 | → англ. apt (подходящий) |
 | Terrenos | земельные участки, местность | 3 | 2026-06-09 | → англ. terrain |
 | Habilitados | разрешённые, оборудованные | 3 | 2026-06-09 | → англ. habilitated (оснащённые) |
-| Propulsión | двигатель, привод | 1 | 2026-06-03 | → англ. propulsion |
+| Propulsión | двигатель, привод | 1 | 2026-06-15 | → англ. propulsion |
 | Así como | так же как и | 2 | 2026-06-03 | así = так, como = как |
 | Tranvías | трамваи | 3 | 2026-06-09 | → англ. tramway |
-| Destinados | предназначенные | 1 | 2026-06-12 | → англ. destined |
+| Destinados | предназначенные | 2 | 2026-06-15 | → англ. destined |
 | Ambos | оба | 3 | 2026-06-09 | → лат. ambo → англ. both |
 | Sidecar | коляска мотоцикла | 3 | 2026-06-09 | → англ. sidecar |
 | Pesado | тяжёлый | 3 | 2026-06-12 | peso = вес, pesado = тяжёлый |
@@ -70,11 +70,11 @@
 | Calzado | обувь | 2 | 2026-06-01 | calzar = обувать, calzado = обутый |
 | Adecuado | подходящий | 2 | 2026-06-02 | → англ. adequate |
 | Cuero | кожа, кожаный | 2 | 2026-06-15 | звучит как «куэро» — коричневая кожа |
-| Llamativos | яркие, броские | 1 | 2026-06-02 | llamar = звать, llamativo = бросающийся в глаза |
+| Llamativos | яркие, броские | 1 | 2026-06-15 | llamar = звать, llamativo = бросающийся в глаза |
 | Guantes | перчатки | 2 | 2026-06-02 | → англ. gauntlets (перчатки-краги) |
 | Agarre firme | крепкий хват | 2 | 2026-06-02 | agarrar = хватать, firme = крепкий |
 | Manejo | управление | 2 | 2026-06-02 | → англ. manage (управлять) |
-| Alcance | радиус действия / досягаемость | 1 | 2026-06-02 | alcanzar = достигать → англ. reach |
+| Alcance | радиус действия / досягаемость | 2 | 2026-06-15 | alcanzar = достигать → англ. reach |
 | Intermitentes | поворотники | 2 | 2026-06-02 | → англ. intermittent (мигающий) |
 | Estrangulador | подсос (в двигателе) | 2 | 2026-06-15 | → англ. strangler (душитель воздуха) |
 | Direccionales | указатели поворота, поворотники | 1 | 2026-06-02 | → англ. directional (направляющий) |
@@ -100,9 +100,9 @@
 | Hay que tener en cuenta | нужно учитывать / следует иметь в виду | 2 | 2026-06-03 | hay que = нужно, cuenta = счёт/расчёт |
 | Menos | менее | 2 | 2026-06-03 | → англ. minus |
 | Carenado | обтекатель, обшивка мотоцикла | 2 | 2026-06-03 | → фр. carène (киль, обшивка) |
-| Siendo | являясь | 2 | 2026-06-03 | ser = быть, siendo = будучи |
+| Siendo | являясь | 2 | 2026-06-15 | ser = быть, siendo = будучи |
 | Preciso | необходимо, обязательно | 2 | 2026-06-03 | → англ. precise (точный, необходимый) |
-| Exentas | освобождённые | 2 | 2026-06-03 | → англ. exempt |
+| Exentas | освобождённые | 3 | 2026-06-15 | → англ. exempt |
 | Justifique | оправдывает, подтверждает | 2 | 2026-06-03 | → англ. justify |
 | Prescindir | обходиться без, отказаться от | 3 | 2026-06-11 | → англ. prescind (отвлечься от) |
 | Incorporación | вливание в поток, присоединение к движению | 2 | 2026-06-03 | → англ. incorporation |
@@ -132,7 +132,7 @@
 | Palanca de cambio | рычаг переключения передач | 2 | 2026-06-09 | palanca = рычаг, cambio = смена |
 | Freno de mano | ручной тормоз | 2 | 2026-06-09 | freno = тормоз, mano = рука |
 | Para dar con | чтобы найти, добиться | 2 | 2026-06-12 | dar con = натолкнуться, найти |
-| Sígalas | следуйте им | 1 | 2026-06-15 | seguir = следовать, -las = им (женский род) |
+| Sígalas | следуйте им | 2 | 2026-06-15 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
 | Flexionada | согнутая | 2 | 2026-06-12 | → англ. flexed |
@@ -167,13 +167,13 @@
 | Pastillas de freno desgastadas | изношенные тормозные колодки | 1 | 2026-06-15 | pastilla = таблетка/колодка, desgastadas = изношенные |
 | Nivel de combustible bajo | низкий уровень топлива | 1 | 2026-06-11 | nivel → англ. level, combustible = топливо |
 | Fallo del ABS | сбой ABS | 1 | 2026-06-10 | fallo → англ. failure |
-| Airbag falla o está desconectado | сбой/отключение подушки безопасности | 0 | — | airbag → англ. airbag, desconectado → disconnected |
+| Airbag falla o está desconectado | сбой/отключение подушки безопасности | 1 | 2026-06-15 | airbag → англ. airbag, desconectado → disconnected |
 | Fallo dirección asistida | сбой усилителя руля | 1 | 2026-06-15 | dirección → англ. direction, asistida → assisted |
-| Lámpara de faro fundida | перегоревшая лампочка | 0 | — | lámpara → англ. lamp, fundida = расплавленная |
+| Lámpara de faro fundida | перегоревшая лампочка | 1 | 2026-06-15 | lámpara → англ. lamp, fundida = расплавленная |
 | Fallo de motor | сбой двигателя | 1 | 2026-06-12 | fallo → англ. failure, motor → англ. motor |
 | Comprobar el nivel de aceite | проверить уровень масла | 1 | 2026-06-15 | comprobar → англ. check, aceite = масло |
 | Líquido limpiaparabrisas | жидкость омывателя | 0 | — | líquido → англ. liquid, limpiaparabrisas = очиститель |
-| Presión de inflado de ruedas | давление подкачки колёс | 0 | — | presión → англ. pressure, inflado → inflated |
+| Presión de inflado de ruedas | давление подкачки колёс | 1 | 2026-06-15 | presión → англ. pressure, inflado → inflated |
 | Freno | тормоз | 1 | 2026-06-11 | → англ. frenetic (тормозить порывы) |
 | Acelerador | акселератор, газ | 1 | 2026-06-12 | → англ. accelerator |
 | Guantera | бардачок | 1 | 2026-06-12 | guante = перчатка, guantera = перчаточный ящик |
