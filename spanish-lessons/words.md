@@ -22,9 +22,9 @@
 | Vía pecuaria | скотопрогонная дорога | 3 | 2026-06-02 | pecuaria → лат. pecus (скот) |
 | Mitad | половина | 3 | 2026-06-02 | лат. medietas → исп. mitad, рус. «медиана» |
 | Así lo aconsejan | так рекомендуется | 3 | 2026-06-02 | así = так, aconsejar = советовать |
-| Ante | перед, при | 3 | 2026-06-15 | → англ. ante (перед, ставка) |
+| Ante | перед, при | 3 | 2026-06-16 | → англ. ante (перед, ставка) |
 | Tracción | тяга, привод | 3 | 2026-06-02 | → англ. traction |
-| Demás | остальные | 2 | 2026-06-01 | de más — «ещё больше», остальные |
+| Demás | остальные | 3 | 2026-06-16 | de más — «ещё больше», остальные |
 | Salvo | кроме, за исключением | 3 | 2026-06-02 | → англ. save (кроме, за исключением) |
 | Siguientes | следующие | 3 | 2026-06-02 | → англ. sequent (следующий) |
 | Dichos | указанные, упомянутые | 3 | 2026-06-02 | decir = говорить, сказанные выше |
@@ -32,7 +32,7 @@
 | Se hallan | находятся | 2 | 2026-06-05 | hallar = находить → англ. hall (найти зал) |
 | Vayan | пусть идут / едут | 3 | 2026-06-11 | ir = идти, vayan — конъюнктив |
 | Refugio | убежище, островок безопасности | 3 | 2026-06-02 | → англ. refuge |
-| Sean | являются / пусть будут | 2 | 2026-06-01 | ser = быть, sean — конъюнктив |
+| Sean | являются / пусть будут | 3 | 2026-06-16 | ser = быть, sean — конъюнктив |
 | Tropas | войска | 3 | 2026-06-02 | → англ. troops |
 | Formación | построение | 3 | 2026-06-03 | → англ. formation |
 | Filas | ряды | 3 | 2026-06-03 | → англ. files (шеренги, ряды) |
@@ -41,17 +41,17 @@
 | Detenerse | остановиться | 3 | 2026-06-03 | detener = останавливать, -se = себя |
 | Marcas viales | дорожная разметка | 3 | 2026-06-03 | marca = знак, vial → англ. via (дорога) |
 | Advertir | предупреждать | 3 | 2026-06-03 | → англ. advertise (оповещать) |
-| Debidamente | должным образом | 2 | 2026-06-01 | debido = должный + -mente |
+| Debidamente | должным образом | 3 | 2026-06-16 | debido = должный + -mente |
 | Pretende | намеревается | 1 | 2026-06-03 | → англ. pretend (намереваться, притворяться) |
 | Penetrar | въезжать, проникать | 3 | 2026-06-11 | → англ. penetrate |
 | Cualquier | любой | 3 | 2026-06-09 | cual (какой) + quier (хочешь) — любой |
-| Apto | подходящий | 2 | 2026-06-15 | → англ. apt (подходящий) |
+| Apto | подходящий | 3 | 2026-06-16 | → англ. apt (подходящий) |
 | Terrenos | земельные участки, местность | 3 | 2026-06-09 | → англ. terrain |
 | Habilitados | разрешённые, оборудованные | 3 | 2026-06-09 | → англ. habilitated (оснащённые) |
 | Propulsión | двигатель, привод | 1 | 2026-06-15 | → англ. propulsion |
 | Así como | так же как и | 2 | 2026-06-03 | así = так, como = как |
 | Tranvías | трамваи | 3 | 2026-06-09 | → англ. tramway |
-| Destinados | предназначенные | 2 | 2026-06-15 | → англ. destined |
+| Destinados | предназначенные | 3 | 2026-06-16 | → англ. destined |
 | Ambos | оба | 3 | 2026-06-09 | → лат. ambo → англ. both |
 | Sidecar | коляска мотоцикла | 3 | 2026-06-09 | → англ. sidecar |
 | Pesado | тяжёлый | 3 | 2026-06-12 | peso = вес, pesado = тяжёлый |
@@ -76,7 +76,7 @@
 | Manejo | управление | 2 | 2026-06-02 | → англ. manage (управлять) |
 | Alcance | радиус действия / досягаемость | 2 | 2026-06-15 | alcanzar = достигать → англ. reach |
 | Intermitentes | поворотники | 2 | 2026-06-02 | → англ. intermittent (мигающий) |
-| Estrangulador | подсос (в двигателе) | 2 | 2026-06-15 | → англ. strangler (душитель воздуха) |
+| Estrangulador | подсос (в двигателе) | 3 | 2026-06-16 | → англ. strangler (душитель воздуха) |
 | Direccionales | указатели поворота, поворотники | 1 | 2026-06-02 | → англ. directional (направляющий) |
 | Corte de ignición | выключение зажигания | 2 | 2026-06-02 | corte = отрезок, ignición → англ. ignition |
 | Botón de arranque | кнопка запуска двигателя | 2 | 2026-06-02 | botón = кнопка, arranque = запуск |
@@ -163,7 +163,7 @@
 | Testigos de aviso | индикаторы предупреждения | 1 | 2026-06-05 | testigo = свидетель, aviso = предупреждение |
 | Acercarse | подъехать, приблизиться | 1 | 2026-06-05 | acercar = приближать → англ. approach |
 | Control de tracción/estabilidad | контроль тяги/устойчивости | 1 | 2026-06-11 | tracción → англ. traction, estabilidad → stability |
-| Precalentamiento diésel | прогрев дизеля | 0 | — | pre + calentamiento (нагрев) = предварительный нагрев |
+| Precalentamiento diésel | прогрев дизеля | 1 | 2026-06-16 | pre + calentamiento (нагрев) = предварительный нагрев |
 | Pastillas de freno desgastadas | изношенные тормозные колодки | 1 | 2026-06-15 | pastilla = таблетка/колодка, desgastadas = изношенные |
 | Nivel de combustible bajo | низкий уровень топлива | 1 | 2026-06-11 | nivel → англ. level, combustible = топливо |
 | Fallo del ABS | сбой ABS | 1 | 2026-06-10 | fallo → англ. failure |
@@ -172,7 +172,7 @@
 | Lámpara de faro fundida | перегоревшая лампочка | 1 | 2026-06-15 | lámpara → англ. lamp, fundida = расплавленная |
 | Fallo de motor | сбой двигателя | 1 | 2026-06-12 | fallo → англ. failure, motor → англ. motor |
 | Comprobar el nivel de aceite | проверить уровень масла | 1 | 2026-06-15 | comprobar → англ. check, aceite = масло |
-| Líquido limpiaparabrisas | жидкость омывателя | 0 | — | líquido → англ. liquid, limpiaparabrisas = очиститель |
+| Líquido limpiaparabrisas | жидкость омывателя | 1 | 2026-06-16 | líquido → англ. liquid, limpiaparabrisas = очиститель |
 | Presión de inflado de ruedas | давление подкачки колёс | 1 | 2026-06-15 | presión → англ. pressure, inflado → inflated |
 | Freno | тормоз | 1 | 2026-06-11 | → англ. frenetic (тормозить порывы) |
 | Acelerador | акселератор, газ | 1 | 2026-06-12 | → англ. accelerator |
@@ -183,4 +183,4 @@
 | Consola central | центральная консоль | 1 | 2026-06-15 | → англ. center console |
 | Elevalunas eléctrico | электрический стеклоподъёмник | 1 | 2026-06-15 | eleva (поднимает) + lunas (стёкла) = стеклоподъёмник |
 | Alfombrillas | коврики | 0 | — | alfombra = ковёр, alfombrilla = коврик |
-| Mando apertura del capó o depósito | рычаг открытия капота или бака | 0 | — | mando = рычаг, apertura → англ. aperture (открытие) |
+| Mando apertura del capó o depósito | рычаг открытия капота или бака | 1 | 2026-06-16 | mando = рычаг, apertura → англ. aperture (открытие) |

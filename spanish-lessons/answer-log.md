@@ -222,3 +222,13 @@
 | 2026-06-15 | Presión de inflado de ruedas | ✅ |
 | 2026-06-15 | Siendo | ❌ |
 | 2026-06-15 | Exentas | ✅ |
+| 2026-06-16 | Apto | ✅ |
+| 2026-06-16 | Líquido limpiaparabrisas | ✅ |
+| 2026-06-16 | Demás | ✅ |
+| 2026-06-16 | Precalentamiento diésel | ✅ |
+| 2026-06-16 | Estrangulador | ✅ |
+| 2026-06-16 | Ante | ✅ |
+| 2026-06-16 | Mando apertura del capó o depósito | ✅ |
+| 2026-06-16 | Sean | ✅ |
+| 2026-06-16 | Destinados | ✅ |
+| 2026-06-16 | Debidamente | ✅ |
