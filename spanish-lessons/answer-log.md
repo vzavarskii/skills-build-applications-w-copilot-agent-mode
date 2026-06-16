@@ -232,3 +232,13 @@
 | 2026-06-16 | Sean | ✅ |
 | 2026-06-16 | Destinados | ✅ |
 | 2026-06-16 | Debidamente | ✅ |
+| 2026-06-16 | Potencia | ✅ |
+| 2026-06-16 | Profundidad adecuadas | ✅ |
+| 2026-06-16 | Siendo | ✅ |
+| 2026-06-16 | Alfombrillas | ✅ |
+| 2026-06-16 | Flexionada | ✅ |
+| 2026-06-16 | Encendedor de mechero | ✅ |
+| 2026-06-16 | Vaho | ✅ |
+| 2026-06-16 | Propulsión | ✅ |
+| 2026-06-16 | Estridente | ✅ |
+| 2026-06-16 | Llamativos | ✅ |

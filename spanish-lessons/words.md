@@ -48,7 +48,7 @@
 | Apto | подходящий | 3 | 2026-06-16 | → англ. apt (подходящий) |
 | Terrenos | земельные участки, местность | 3 | 2026-06-09 | → англ. terrain |
 | Habilitados | разрешённые, оборудованные | 3 | 2026-06-09 | → англ. habilitated (оснащённые) |
-| Propulsión | двигатель, привод | 1 | 2026-06-15 | → англ. propulsion |
+| Propulsión | двигатель, привод | 2 | 2026-06-16 | → англ. propulsion |
 | Así como | так же как и | 2 | 2026-06-03 | así = так, como = как |
 | Tranvías | трамваи | 3 | 2026-06-09 | → англ. tramway |
 | Destinados | предназначенные | 3 | 2026-06-16 | → англ. destined |
@@ -61,16 +61,16 @@
 | Tractocamión | тягач | 3 | 2026-06-15 | tractor + camión (грузовик) — тягач |
 | En vigor | действующий | 2 | 2026-06-12 | → англ. in vigor (в силе) |
 | Dispositivo | устройство | 3 | 2026-06-12 | → англ. device |
-| Estridente | пронзительный, резкий | 2 | 2026-06-01 | → англ. strident |
+| Estridente | пронзительный, резкий | 3 | 2026-06-16 | → англ. strident |
 | Obedecen | подчиняются | 3 | 2026-06-10 | → англ. obey |
-| Potencia | мощность | 2 | 2026-06-01 | → англ. potency (мощь) |
+| Potencia | мощность | 3 | 2026-06-16 | → англ. potency (мощь) |
 | Pantalla | экран | 2 | 2026-06-05 | как «пантала» — панель-экран |
-| Vaho | пар, запотевание | 2 | 2026-06-01 | звучит как «вáо» — вapap, туман |
+| Vaho | пар, запотевание | 3 | 2026-06-16 | звучит как «вáо» — вapap, туман |
 | Empañe | запотевание, помутнение | 2 | 2026-06-05 | empaño — «завесить паном», помутнение |
 | Calzado | обувь | 2 | 2026-06-01 | calzar = обувать, calzado = обутый |
 | Adecuado | подходящий | 2 | 2026-06-02 | → англ. adequate |
 | Cuero | кожа, кожаный | 2 | 2026-06-15 | звучит как «куэро» — коричневая кожа |
-| Llamativos | яркие, броские | 1 | 2026-06-15 | llamar = звать, llamativo = бросающийся в глаза |
+| Llamativos | яркие, броские | 2 | 2026-06-16 | llamar = звать, llamativo = бросающийся в глаза |
 | Guantes | перчатки | 2 | 2026-06-02 | → англ. gauntlets (перчатки-краги) |
 | Agarre firme | крепкий хват | 2 | 2026-06-02 | agarrar = хватать, firme = крепкий |
 | Manejo | управление | 2 | 2026-06-02 | → англ. manage (управлять) |
@@ -100,7 +100,7 @@
 | Hay que tener en cuenta | нужно учитывать / следует иметь в виду | 2 | 2026-06-03 | hay que = нужно, cuenta = счёт/расчёт |
 | Menos | менее | 2 | 2026-06-03 | → англ. minus |
 | Carenado | обтекатель, обшивка мотоцикла | 2 | 2026-06-03 | → фр. carène (киль, обшивка) |
-| Siendo | являясь | 2 | 2026-06-15 | ser = быть, siendo = будучи |
+| Siendo | являясь | 3 | 2026-06-16 | ser = быть, siendo = будучи |
 | Preciso | необходимо, обязательно | 2 | 2026-06-03 | → англ. precise (точный, необходимый) |
 | Exentas | освобождённые | 3 | 2026-06-15 | → англ. exempt |
 | Justifique | оправдывает, подтверждает | 2 | 2026-06-03 | → англ. justify |
@@ -135,7 +135,7 @@
 | Sígalas | следуйте им | 2 | 2026-06-15 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
-| Flexionada | согнутая | 2 | 2026-06-12 | → англ. flexed |
+| Flexionada | согнутая | 3 | 2026-06-16 | → англ. flexed |
 | Lo más lejos | как можно дальше | 2 | 2026-06-11 | lejos → англ. far, lo más = как можно |
 | Permita | позволяет | 2 | 2026-06-10 | → англ. permit |
 | Respaldo | спинка сиденья | 2 | 2026-06-10 | respaldar = поддерживать сзади, respaldo = спинка |
@@ -159,7 +159,7 @@
 | Luneta trasera | заднее стекло | 1 | 2026-06-05 | luneta = маленькая луна (овальное стекло) |
 | Obstaculizar | препятствовать, закрывать обзор | 1 | 2026-06-05 | → англ. obstacle |
 | Ángulo muerto | слепая зона | 1 | 2026-06-05 | ángulo = угол, muerto = мёртвый — мёртвый угол |
-| Profundidad adecuadas | подходящая глубина | 0 | — | profundidad → англ. profundity, adecuadas → adequate |
+| Profundidad adecuadas | подходящая глубина | 1 | 2026-06-16 | profundidad → англ. profundity, adecuadas → adequate |
 | Testigos de aviso | индикаторы предупреждения | 1 | 2026-06-05 | testigo = свидетель, aviso = предупреждение |
 | Acercarse | подъехать, приблизиться | 1 | 2026-06-05 | acercar = приближать → англ. approach |
 | Control de tracción/estabilidad | контроль тяги/устойчивости | 1 | 2026-06-11 | tracción → англ. traction, estabilidad → stability |
@@ -179,8 +179,8 @@
 | Guantera | бардачок | 1 | 2026-06-12 | guante = перчатка, guantera = перчаточный ящик |
 | Climatizador | климатизатор | 1 | 2026-06-12 | → англ. climate control |
 | Sistema de audio | аудиосистема | 1 | 2026-06-15 | → англ. audio system |
-| Encendedor de mechero | прикуриватель | 0 | — | encender = зажигать, mechero = зажигалка |
+| Encendedor de mechero | прикуриватель | 1 | 2026-06-16 | encender = зажигать, mechero = зажигалка |
 | Consola central | центральная консоль | 1 | 2026-06-15 | → англ. center console |
 | Elevalunas eléctrico | электрический стеклоподъёмник | 1 | 2026-06-15 | eleva (поднимает) + lunas (стёкла) = стеклоподъёмник |
-| Alfombrillas | коврики | 0 | — | alfombra = ковёр, alfombrilla = коврик |
+| Alfombrillas | коврики | 1 | 2026-06-16 | alfombra = ковёр, alfombrilla = коврик |
 | Mando apertura del capó o depósito | рычаг открытия капота или бака | 1 | 2026-06-16 | mando = рычаг, apertura → англ. aperture (открытие) |
