@@ -242,3 +242,13 @@
 | 2026-06-16 | Propulsión | ✅ |
 | 2026-06-16 | Estridente | ✅ |
 | 2026-06-16 | Llamativos | ✅ |
+| 2026-06-17 | Erguida | ✅ |
+| 2026-06-17 | Propulsión | ✅ |
+| 2026-06-17 | Calzado | ✅ |
+| 2026-06-17 | Direccionales | ✅ |
+| 2026-06-17 | Guantes | ✅ |
+| 2026-06-17 | Siendo | ✅ |
+| 2026-06-17 | Patilla de arranque auxiliar | ❌ |
+| 2026-06-17 | Llamativos | ✅ |
+| 2026-06-17 | Adecuado | ✅ |
+| 2026-06-17 | Aumenta | ✅ |
