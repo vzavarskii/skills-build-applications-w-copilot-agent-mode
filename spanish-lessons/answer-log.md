@@ -272,3 +272,13 @@
 | 2026-06-17 | Patilla de arranque auxiliar | ✅ |
 | 2026-06-17 | Bocina | ✅ |
 | 2026-06-17 | Agarre firme | ✅ |
+| 2026-06-17 | Saber | ✅ |
+| 2026-06-17 | Se hallan | ✅ |
+| 2026-06-17 | Forzada | ✅ |
+| 2026-06-17 | Horcajadas | ✅ |
+| 2026-06-17 | Hay que tener en cuenta | ✅ |
+| 2026-06-17 | Pantalla | ✅ |
+| 2026-06-17 | Sentados entre | ✅ |
+| 2026-06-17 | Evitando fatiga | ✅ |
+| 2026-06-17 | Suelta | ❌ |
+| 2026-06-17 | Agachado | ✅ |
