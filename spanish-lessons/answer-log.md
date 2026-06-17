@@ -262,3 +262,13 @@
 | 2026-06-17 | Botón de arranque | ✅ |
 | 2026-06-17 | Pretende | ✅ |
 | 2026-06-17 | Manejo | ✅ |
+| 2026-06-17 | Pito | ❌ |
+| 2026-06-17 | Evitando fatiga | ✅ |
+| 2026-06-17 | Embrague | ✅ |
+| 2026-06-17 | Se hallan | ❌ |
+| 2026-06-17 | Corte de ignición | ✅ |
+| 2026-06-17 | Horcajadas | ✅ |
+| 2026-06-17 | Consumo de combustible | ✅ |
+| 2026-06-17 | Patilla de arranque auxiliar | ✅ |
+| 2026-06-17 | Bocina | ✅ |
+| 2026-06-17 | Agarre firme | ✅ |
