@@ -252,3 +252,13 @@
 | 2026-06-17 | Llamativos | ✅ |
 | 2026-06-17 | Adecuado | ✅ |
 | 2026-06-17 | Aumenta | ✅ |
+| 2026-06-17 | Intermitentes | ✅ |
+| 2026-06-17 | Horcajadas | ❌ |
+| 2026-06-17 | Así como | ❌ |
+| 2026-06-17 | Patilla de arranque auxiliar | ✅ |
+| 2026-06-17 | Odómetro | ✅ |
+| 2026-06-17 | Evitando fatiga | ❌ |
+| 2026-06-17 | Lo contrario | ✅ |
+| 2026-06-17 | Botón de arranque | ✅ |
+| 2026-06-17 | Pretende | ✅ |
+| 2026-06-17 | Manejo | ✅ |
