@@ -282,3 +282,13 @@
 | 2026-06-17 | Evitando fatiga | ✅ |
 | 2026-06-17 | Suelta | ❌ |
 | 2026-06-17 | Agachado | ✅ |
+| 2026-06-21 | Lo más lejos | ✅ |
+| 2026-06-21 | Herramientas | ✅ |
+| 2026-06-21 | Empañe | ✅ |
+| 2026-06-21 | Incorporación | ✅ |
+| 2026-06-21 | Apoyados | ✅ |
+| 2026-06-21 | Carenado | ❌ |
+| 2026-06-21 | Preciso | ✅ |
+| 2026-06-21 | Justifique | ✅ |
+| 2026-06-21 | Inclinado | ✅ |
+| 2026-06-21 | Menos | ✅ |
