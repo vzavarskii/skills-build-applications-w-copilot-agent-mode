@@ -292,3 +292,13 @@
 | 2026-06-21 | Justifique | ✅ |
 | 2026-06-21 | Inclinado | ✅ |
 | 2026-06-21 | Menos | ✅ |
+| 2026-06-21 | Someterse | ✅ |
+| 2026-06-21 | Vayan | ✅ |
+| 2026-06-21 | Penetrar | ✅ |
+| 2026-06-21 | Prescindir | ✅ |
+| 2026-06-21 | Otros | ✅ |
+| 2026-06-21 | Bombillas | ✅ |
+| 2026-06-21 | Alcancen | ✅ |
+| 2026-06-21 | Cinturón de seguridad | ✅ |
+| 2026-06-21 | Hombro | ✅ |
+| 2026-06-21 | Clavícula | ✅ |
