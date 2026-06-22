@@ -2,7 +2,16 @@
   "permissions": {
     "allow": [
       "Bash(git push origin HEAD:main)",
-      "Bash(git push origin HEAD)"
+      "Bash(git push origin HEAD)",
+      "Bash(git push -u origin HEAD:main)",
+      "Bash(git push -u origin HEAD)"
+    ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "Bash(git push origin HEAD:main)",
+      "Bash(git push -u origin HEAD:main)"
     ]
   }
 }
