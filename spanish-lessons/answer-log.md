@@ -312,3 +312,13 @@
 | 2026-06-22 | Botiquín | ✅ |
 | 2026-06-22 | Capó | ✅ |
 | 2026-06-22 | Luneta trasera | ✅ |
+| 2026-06-22 | Techo | ✅ |
+| 2026-06-22 | Carrocería | ✅ |
+| 2026-06-22 | Acercarse | ✅ |
+| 2026-06-22 | Parachoques | ✅ |
+| 2026-06-22 | Para dar con | ❌ |
+| 2026-06-22 | Maletero | ✅ |
+| 2026-06-22 | Cuero | ✅ |
+| 2026-06-22 | Limpiaparabrisas | ❌ |
+| 2026-06-22 | Alcance | ✅ |
+| 2026-06-22 | Tapa del depósito | ✅ |

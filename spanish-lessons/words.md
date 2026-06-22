@@ -56,7 +56,7 @@
 | Sidecar | коляска мотоцикла | 3 | 2026-06-09 | → англ. sidecar |
 | Pesado | тяжёлый | 3 | 2026-06-12 | peso = вес, pesado = тяжёлый |
 | Derivado | производный | 3 | 2026-06-12 | → англ. derived |
-| Carrocería | кузов | 2 | 2026-06-22 | carro = тележка, carrocería = кузов |
+| Carrocería | кузов | 3 | 2026-06-22 | carro = тележка, carrocería = кузов |
 | Acondicionado | оборудованный / кондиционированный | 3 | 2026-06-12 | → англ. air-conditioned |
 | Tractocamión | тягач | 3 | 2026-06-15 | tractor + camión (грузовик) — тягач |
 | En vigor | действующий | 3 | 2026-06-22 | → англ. in vigor (в силе) |
@@ -69,12 +69,12 @@
 | Empañe | запотевание, помутнение | 3 | 2026-06-21 | empaño — «завесить паном», помутнение |
 | Calzado | обувь | 3 | 2026-06-17 | calzar = обувать, calzado = обутый |
 | Adecuado | подходящий | 3 | 2026-06-17 | → англ. adequate |
-| Cuero | кожа, кожаный | 2 | 2026-06-15 | звучит как «куэро» — коричневая кожа |
+| Cuero | кожа, кожаный | 3 | 2026-06-22 | звучит как «куэро» — коричневая кожа |
 | Llamativos | яркие, броские | 3 | 2026-06-17 | llamar = звать, llamativo = бросающийся в глаза |
 | Guantes | перчатки | 3 | 2026-06-17 | → англ. gauntlets (перчатки-краги) |
 | Agarre firme | крепкий хват | 3 | 2026-06-17 | agarrar = хватать, firme = крепкий |
 | Manejo | управление | 3 | 2026-06-17 | → англ. manage (управлять) |
-| Alcance | радиус действия / досягаемость | 2 | 2026-06-15 | alcanzar = достигать → англ. reach |
+| Alcance | радиус действия / досягаемость | 3 | 2026-06-22 | alcanzar = достигать → англ. reach |
 | Intermitentes | поворотники | 3 | 2026-06-17 | → англ. intermittent (мигающий) |
 | Estrangulador | подсос (в двигателе) | 3 | 2026-06-16 | → англ. strangler (душитель воздуха) |
 | Direccionales | указатели поворота, поворотники | 2 | 2026-06-17 | → англ. directional (направляющий) |
@@ -110,11 +110,11 @@
 | Otros | другие | 3 | 2026-06-21 | → лат. alter → англ. other |
 | Bombillas | лампочки | 3 | 2026-06-21 | bombilla = «бомбочка» — маленький шар света |
 | Botiquín | аптечка | 3 | 2026-06-22 | botica = аптека, botiquín = аптечка |
-| Techo | крыша | 2 | 2026-06-05 | звучит как «тэчо» — «течёт» крыша |
-| Limpiaparabrisas | стеклоочиститель, дворник | 2 | 2026-06-05 | limpiar (чистить) + parabrisas (лобовое стекло) |
-| Tapa del depósito | крышка топливного бака | 2 | 2026-06-05 | tapa = крышка, depósito → англ. deposit |
-| Maletero | багажник | 2 | 2026-06-05 | maleta = чемодан, maletero = чемоданник |
-| Parachoques | бампер | 2 | 2026-06-05 | para (защита) + choques (удары) — амортизатор |
+| Techo | крыша | 3 | 2026-06-22 | звучит как «тэчо» — «течёт» крыша |
+| Limpiaparabrisas | стеклоочиститель, дворник | 2 | 2026-06-22 | limpiar (чистить) + parabrisas (лобовое стекло) |
+| Tapa del depósito | крышка топливного бака | 3 | 2026-06-22 | tapa = крышка, depósito → англ. deposit |
+| Maletero | багажник | 3 | 2026-06-22 | maleta = чемодан, maletero = чемоданник |
+| Parachoques | бампер | 3 | 2026-06-22 | para (защита) + choques (удары) — амортизатор |
 | Techo corredizo | люк, сдвижная крыша | 2 | 2026-06-05 | techo = крыша, corredizo = скользящий |
 | Parabrisas | лобовое стекло | 2 | 2026-06-05 | para (защита) + brisa (бриза) — ветрозащита |
 | Cerradura de la puerta | дверной замок | 2 | 2026-06-05 | cerrar = закрывать, cerradura = замок |
@@ -131,7 +131,7 @@
 | Asiento | сиденье | 2 | 2026-06-09 | asentar = усаживать, asiento = сиденье |
 | Palanca de cambio | рычаг переключения передач | 2 | 2026-06-09 | palanca = рычаг, cambio = смена |
 | Freno de mano | ручной тормоз | 2 | 2026-06-09 | freno = тормоз, mano = рука |
-| Para dar con | чтобы найти, добиться | 2 | 2026-06-12 | dar con = натолкнуться, найти |
+| Para dar con | чтобы найти, добиться | 2 | 2026-06-22 | dar con = натолкнуться, найти |
 | Sígalas | следуйте им | 2 | 2026-06-15 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
@@ -161,7 +161,7 @@
 | Ángulo muerto | слепая зона | 2 | 2026-06-22 | ángulo = угол, muerto = мёртвый — мёртвый угол |
 | Profundidad adecuadas | подходящая глубина | 1 | 2026-06-16 | profundidad → англ. profundity, adecuadas → adequate |
 | Testigos de aviso | индикаторы предупреждения | 2 | 2026-06-22 | testigo = свидетель, aviso = предупреждение |
-| Acercarse | подъехать, приблизиться | 1 | 2026-06-05 | acercar = приближать → англ. approach |
+| Acercarse | подъехать, приблизиться | 2 | 2026-06-22 | acercar = приближать → англ. approach |
 | Control de tracción/estabilidad | контроль тяги/устойчивости | 1 | 2026-06-11 | tracción → англ. traction, estabilidad → stability |
 | Precalentamiento diésel | прогрев дизеля | 1 | 2026-06-16 | pre + calentamiento (нагрев) = предварительный нагрев |
 | Pastillas de freno desgastadas | изношенные тормозные колодки | 1 | 2026-06-15 | pastilla = таблетка/колодка, desgastadas = изношенные |
