@@ -302,3 +302,13 @@
 | 2026-06-21 | Cinturón de seguridad | ✅ |
 | 2026-06-21 | Hombro | ✅ |
 | 2026-06-21 | Clavícula | ✅ |
+| 2026-06-22 | Pecho | ✅ |
+| 2026-06-22 | Carrocería | ❌ |
+| 2026-06-22 | Ángulo muerto | ✅ |
+| 2026-06-22 | Abdomen | ❌ |
+| 2026-06-22 | En vigor | ✅ |
+| 2026-06-22 | Obstaculizar | ❌ |
+| 2026-06-22 | Testigos de aviso | ✅ |
+| 2026-06-22 | Botiquín | ✅ |
+| 2026-06-22 | Capó | ✅ |
+| 2026-06-22 | Luneta trasera | ✅ |
