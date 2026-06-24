@@ -81,7 +81,7 @@
 | Corte de ignición | выключение зажигания | 3 | 2026-06-17 | corte = отрезок, ignición → англ. ignition |
 | Botón de arranque | кнопка запуска двигателя | 3 | 2026-06-17 | botón = кнопка, arranque = запуск |
 | Patilla de arranque auxiliar | вспомогательная пусковая ножка / кикстартер | 3 | 2026-06-17 | patilla = ножка, arranque = запуск |
-| Combustible | топливо | 2 | 2026-06-15 | → англ. combustible |
+| Combustible | топливо | 3 | 2026-06-24 | → англ. combustible |
 | Odómetro | одометр, счётчик пробега | 3 | 2026-06-17 | → англ. odometer |
 | Pito | гудок, сигнал | 2 | 2026-06-17 | звучит как «пито» — пипикает |
 | Bocina | клаксон, звуковой сигнал | 3 | 2026-06-17 | → англ. bugle (горн, сигнал) |
@@ -115,11 +115,11 @@
 | Tapa del depósito | крышка топливного бака | 3 | 2026-06-22 | tapa = крышка, depósito → англ. deposit |
 | Maletero | багажник | 3 | 2026-06-22 | maleta = чемодан, maletero = чемоданник |
 | Parachoques | бампер | 3 | 2026-06-22 | para (защита) + choques (удары) — амортизатор |
-| Techo corredizo | люк, сдвижная крыша | 2 | 2026-06-05 | techo = крыша, corredizo = скользящий |
-| Parabrisas | лобовое стекло | 2 | 2026-06-05 | para (защита) + brisa (бриза) — ветрозащита |
-| Cerradura de la puerta | дверной замок | 2 | 2026-06-05 | cerrar = закрывать, cerradura = замок |
+| Techo corredizo | люк, сдвижная крыша | 3 | 2026-06-24 | techo = крыша, corredizo = скользящий |
+| Parabrisas | лобовое стекло | 3 | 2026-06-24 | para (защита) + brisa (бриза) — ветрозащита |
+| Cerradura de la puerta | дверной замок | 3 | 2026-06-24 | cerrar = закрывать, cerradura = замок |
 | Capó | капот | 3 | 2026-06-22 | → фр. capot → рус. капот |
-| Guardabarros | крыло, брызговик | 2 | 2026-06-05 | guarda (охрана) + barros (грязь) — грязезащита |
+| Guardabarros | крыло, брызговик | 3 | 2026-06-24 | guarda (охрана) + barros (грязь) — грязезащита |
 | Intermitente | поворотник | 2 | 2026-06-05 | → англ. intermittent (мигающий) |
 | Parrilla delantera | решётка радиатора | 2 | 2026-06-05 | parrilla = решётка-гриль спереди |
 | Neumático | шина | 2 | 2026-06-05 | → англ. pneumatic (надувной) |
@@ -131,8 +131,8 @@
 | Asiento | сиденье | 2 | 2026-06-09 | asentar = усаживать, asiento = сиденье |
 | Palanca de cambio | рычаг переключения передач | 2 | 2026-06-09 | palanca = рычаг, cambio = смена |
 | Freno de mano | ручной тормоз | 2 | 2026-06-09 | freno = тормоз, mano = рука |
-| Para dar con | чтобы найти, добиться | 2 | 2026-06-22 | dar con = натолкнуться, найти |
-| Sígalas | следуйте им | 2 | 2026-06-15 | seguir = следовать, -las = им (женский род) |
+| Para dar con | чтобы найти, добиться | 3 | 2026-06-24 | dar con = натолкнуться, найти |
+| Sígalas | следуйте им | 3 | 2026-06-24 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 2 | 2026-06-05 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 1 | 2026-06-10 | siendo = будучи, ligeramente → англ. lightly |
 | Flexionada | согнутая | 3 | 2026-06-16 | → англ. flexed |
@@ -144,9 +144,9 @@
 | Ángulo recto | прямой угол | 2 | 2026-06-12 | ángulo → англ. angle, recto → англ. right |
 | Apoyados | опирающиеся | 2 | 2026-06-21 | apoyar = опираться → англ. support |
 | Alcancen | доставали | 2 | 2026-06-21 | alcanzar = достигать → англ. reach |
-| Profundidad | глубина | 2 | 2026-06-15 | → англ. profundity |
-| Adecuadas | подходящие | 1 | 2026-06-09 | → англ. adequate |
-| Altas | высоко расположенные | 1 | 2026-06-09 | → англ. altitude (высота) |
+| Profundidad | глубина | 2 | 2026-06-24 | → англ. profundity |
+| Adecuadas | подходящие | 2 | 2026-06-24 | → англ. adequate |
+| Altas | высоко расположенные | 2 | 2026-06-24 | → англ. altitude (высота) |
 | Lóbulos | мочки (ушей) | 1 | 2026-06-10 | → англ. lobes |
 | Queden alineados | были выровнены | 1 | 2026-06-12 | quedar = оставаться, alineados → англ. aligned |
 | Cinturón de seguridad | ремень безопасности | 2 | 2026-06-21 | cinturón = пояс, seguridad → англ. security |

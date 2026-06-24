@@ -322,3 +322,13 @@
 | 2026-06-22 | Limpiaparabrisas | ❌ |
 | 2026-06-22 | Alcance | ✅ |
 | 2026-06-22 | Tapa del depósito | ✅ |
+| 2026-06-24 | Techo corredizo | ✅ |
+| 2026-06-24 | Para dar con | ✅ |
+| 2026-06-24 | Guardabarros | ✅ |
+| 2026-06-24 | Sígalas | ✅ |
+| 2026-06-24 | Profundidad | ❌ |
+| 2026-06-24 | Parabrisas | ✅ |
+| 2026-06-24 | Combustible | ✅ |
+| 2026-06-24 | Adecuadas | ✅ |
+| 2026-06-24 | Cerradura de la puerta | ✅ |
+| 2026-06-24 | Altas | ✅ |
