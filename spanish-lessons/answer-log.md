@@ -332,3 +332,13 @@
 | 2026-06-24 | Adecuadas | ✅ |
 | 2026-06-24 | Cerradura de la puerta | ✅ |
 | 2026-06-24 | Altas | ✅ |
+| 2026-06-26 | Parrilla delantera | ✅ |
+| 2026-06-26 | Profundidad | ✅ |
+| 2026-06-26 | Siendo ligeramente | ✅ |
+| 2026-06-26 | Exentas | ✅ |
+| 2026-06-26 | Neumático | ✅ |
+| 2026-06-26 | Por encima | ✅ |
+| 2026-06-26 | Intermitente | ✅ |
+| 2026-06-26 | Tablero de mandos | ✅ |
+| 2026-06-26 | Provistos | ❌ |
+| 2026-06-26 | Lóbulos | ❌ |
