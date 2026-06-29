@@ -342,3 +342,13 @@
 | 2026-06-26 | Tablero de mandos | ✅ |
 | 2026-06-26 | Provistos | ❌ |
 | 2026-06-26 | Lóbulos | ❌ |
+| 2026-06-29 | Volante | ✅ |
+| 2026-06-29 | Provistos | ✅ |
+| 2026-06-29 | Orden | ✅ |
+| 2026-06-29 | Apto | ✅ |
+| 2026-06-29 | Tapacubos | ✅ |
+| 2026-06-29 | Ante | ✅ |
+| 2026-06-29 | Permita | ✅ |
+| 2026-06-29 | Destinados | ✅ |
+| 2026-06-29 | Contacto | ❌ |
+| 2026-06-29 | Freno de mano | ✅ |
