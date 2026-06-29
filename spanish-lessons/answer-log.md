@@ -362,3 +362,13 @@
 | 2026-06-29 | Así como | ❌ |
 | 2026-06-29 | Freno | ✅ |
 | 2026-06-29 | Fallo del ABS | ✅ |
+| 2026-06-29 | Cíñalo | ❌ |
+| 2026-06-29 | Direccionales | ✅ |
+| 2026-06-29 | Asiento | ✅ |
+| 2026-06-29 | Aumenta | ✅ |
+| 2026-06-29 | Nivel de combustible bajo | ✅ |
+| 2026-06-29 | Erguida | ✅ |
+| 2026-06-29 | Pito | ✅ |
+| 2026-06-29 | Queden alineados | ❌ |
+| 2026-06-29 | Control de tracción/estabilidad | ✅ |
+| 2026-06-29 | Acelerador | ✅ |

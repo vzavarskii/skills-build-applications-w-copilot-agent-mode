@@ -77,17 +77,17 @@
 | Alcance | радиус действия / досягаемость | 3 | 2026-06-22 | alcanzar = достигать → англ. reach |
 | Intermitentes | поворотники | 3 | 2026-06-17 | → англ. intermittent (мигающий) |
 | Estrangulador | подсос (в двигателе) | 3 | 2026-06-29 | → англ. strangler (душитель воздуха) |
-| Direccionales | указатели поворота, поворотники | 2 | 2026-06-17 | → англ. directional (направляющий) |
+| Direccionales | указатели поворота, поворотники | 3 | 2026-06-29 | → англ. directional (направляющий) |
 | Corte de ignición | выключение зажигания | 3 | 2026-06-17 | corte = отрезок, ignición → англ. ignition |
 | Botón de arranque | кнопка запуска двигателя | 3 | 2026-06-17 | botón = кнопка, arranque = запуск |
 | Patilla de arranque auxiliar | вспомогательная пусковая ножка / кикстартер | 3 | 2026-06-17 | patilla = ножка, arranque = запуск |
 | Combustible | топливо | 3 | 2026-06-24 | → англ. combustible |
 | Odómetro | одометр, счётчик пробега | 3 | 2026-06-17 | → англ. odometer |
-| Pito | гудок, сигнал | 2 | 2026-06-17 | звучит как «пито» — пипикает |
+| Pito | гудок, сигнал | 3 | 2026-06-29 | звучит как «пито» — пипикает |
 | Bocina | клаксон, звуковой сигнал | 3 | 2026-06-17 | → англ. bugle (горн, сигнал) |
 | Embrague | сцепление | 3 | 2026-06-17 | → фр. embrayage (сцепление) |
-| Erguida | выпрямленная, прямая | 2 | 2026-06-17 | → англ. erect (прямой) |
-| Aumenta | увеличивается | 2 | 2026-06-17 | → англ. augment (увеличивать) |
+| Erguida | выпрямленная, прямая | 3 | 2026-06-29 | → англ. erect (прямой) |
+| Aumenta | увеличивается | 3 | 2026-06-29 | → англ. augment (увеличивать) |
 | Consumo de combustible | расход топлива | 3 | 2026-06-17 | consumo → англ. consume, combustible = топливо |
 | Lo contrario | обратное | 3 | 2026-06-17 | contrario → англ. contrary |
 | Agachado | согнутый, наклонившийся | 3 | 2026-06-17 | agachar = нагнуться, как «гача» — крюк |
@@ -128,7 +128,7 @@
 | Tablero de mandos | приборная панель | 3 | 2026-06-26 | tablero = доска, mando = управление |
 | Volante | руль | 3 | 2026-06-29 | volar = летать, volante = вращающийся |
 | Contacto | зажигание | 2 | 2026-06-29 | → англ. contact (контакт = зажигание) |
-| Asiento | сиденье | 2 | 2026-06-09 | asentar = усаживать, asiento = сиденье |
+| Asiento | сиденье | 3 | 2026-06-29 | asentar = усаживать, asiento = сиденье |
 | Palanca de cambio | рычаг переключения передач | 3 | 2026-06-29 | palanca = рычаг, cambio = смена |
 | Freno de mano | ручной тормоз | 3 | 2026-06-29 | freno = тормоз, mano = рука |
 | Para dar con | чтобы найти, добиться | 3 | 2026-06-24 | dar con = натолкнуться, найти |
@@ -148,12 +148,12 @@
 | Adecuadas | подходящие | 2 | 2026-06-24 | → англ. adequate |
 | Altas | высоко расположенные | 2 | 2026-06-24 | → англ. altitude (высота) |
 | Lóbulos | мочки (ушей) | 1 | 2026-06-26 | → англ. lobes |
-| Queden alineados | были выровнены | 1 | 2026-06-12 | quedar = оставаться, alineados → англ. aligned |
+| Queden alineados | были выровнены | 1 | 2026-06-29 | quedar = оставаться, alineados → англ. aligned |
 | Cinturón de seguridad | ремень безопасности | 2 | 2026-06-21 | cinturón = пояс, seguridad → англ. security |
 | Por encima | поверх, выше | 3 | 2026-06-26 | encima = сверху, por = через/по |
 | Hombro | плечо | 2 | 2026-06-21 | звучит как «омбро» — как рус. «рамо» |
 | Clavícula | ключица | 2 | 2026-06-21 | → англ. clavicle |
-| Cíñalo | плотно пристегните / прижмите | 1 | 2026-06-12 | ceñir = стягивать, → англ. cinch |
+| Cíñalo | плотно пристегните / прижмите | 1 | 2026-06-29 | ceñir = стягивать, → англ. cinch |
 | Pecho | грудь | 2 | 2026-06-22 | звучит как «пэчо» — грудная клетка |
 | Abdomen | живот | 1 | 2026-06-22 | → англ. abdomen |
 | Luneta trasera | заднее стекло | 2 | 2026-06-22 | luneta = маленькая луна (овальное стекло) |
@@ -162,10 +162,10 @@
 | Profundidad adecuadas | подходящая глубина | 1 | 2026-06-16 | profundidad → англ. profundity, adecuadas → adequate |
 | Testigos de aviso | индикаторы предупреждения | 2 | 2026-06-22 | testigo = свидетель, aviso = предупреждение |
 | Acercarse | подъехать, приблизиться | 2 | 2026-06-22 | acercar = приближать → англ. approach |
-| Control de tracción/estabilidad | контроль тяги/устойчивости | 1 | 2026-06-11 | tracción → англ. traction, estabilidad → stability |
+| Control de tracción/estabilidad | контроль тяги/устойчивости | 2 | 2026-06-29 | tracción → англ. traction, estabilidad → stability |
 | Precalentamiento diésel | прогрев дизеля | 1 | 2026-06-16 | pre + calentamiento (нагрев) = предварительный нагрев |
 | Pastillas de freno desgastadas | изношенные тормозные колодки | 1 | 2026-06-15 | pastilla = таблетка/колодка, desgastadas = изношенные |
-| Nivel de combustible bajo | низкий уровень топлива | 1 | 2026-06-11 | nivel → англ. level, combustible = топливо |
+| Nivel de combustible bajo | низкий уровень топлива | 2 | 2026-06-29 | nivel → англ. level, combustible = топливо |
 | Fallo del ABS | сбой ABS | 2 | 2026-06-29 | fallo → англ. failure |
 | Airbag falla o está desconectado | сбой/отключение подушки безопасности | 1 | 2026-06-15 | airbag → англ. airbag, desconectado → disconnected |
 | Fallo dirección asistida | сбой усилителя руля | 1 | 2026-06-15 | dirección → англ. direction, asistida → assisted |
@@ -175,7 +175,7 @@
 | Líquido limpiaparabrisas | жидкость омывателя | 1 | 2026-06-16 | líquido → англ. liquid, limpiaparabrisas = очиститель |
 | Presión de inflado de ruedas | давление подкачки колёс | 1 | 2026-06-15 | presión → англ. pressure, inflado → inflated |
 | Freno | тормоз | 2 | 2026-06-29 | → англ. frenetic (тормозить порывы) |
-| Acelerador | акселератор, газ | 1 | 2026-06-12 | → англ. accelerator |
+| Acelerador | акселератор, газ | 2 | 2026-06-29 | → англ. accelerator |
 | Guantera | бардачок | 1 | 2026-06-12 | guante = перчатка, guantera = перчаточный ящик |
 | Climatizador | климатизатор | 2 | 2026-06-29 | → англ. climate control |
 | Sistema de audio | аудиосистема | 1 | 2026-06-15 | → англ. audio system |
