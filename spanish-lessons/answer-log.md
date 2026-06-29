@@ -352,3 +352,13 @@
 | 2026-06-29 | Destinados | ✅ |
 | 2026-06-29 | Contacto | ❌ |
 | 2026-06-29 | Freno de mano | ✅ |
+| 2026-06-29 | Vertical | ✅ |
+| 2026-06-29 | Estrangulador | ✅ |
+| 2026-06-29 | Palanca de cambio | ✅ |
+| 2026-06-29 | Pretende | ✅ |
+| 2026-06-29 | Climatizador | ✅ |
+| 2026-06-29 | Flexionada | ✅ |
+| 2026-06-29 | Reposacabezas | ✅ |
+| 2026-06-29 | Así como | ❌ |
+| 2026-06-29 | Freno | ✅ |
+| 2026-06-29 | Fallo del ABS | ✅ |

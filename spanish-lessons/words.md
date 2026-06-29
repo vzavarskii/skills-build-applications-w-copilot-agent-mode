@@ -42,14 +42,14 @@
 | Marcas viales | дорожная разметка | 3 | 2026-06-03 | marca = знак, vial → англ. via (дорога) |
 | Advertir | предупреждать | 3 | 2026-06-03 | → англ. advertise (оповещать) |
 | Debidamente | должным образом | 3 | 2026-06-16 | debido = должный + -mente |
-| Pretende | намеревается | 2 | 2026-06-17 | → англ. pretend (намереваться, притворяться) |
+| Pretende | намеревается | 3 | 2026-06-29 | → англ. pretend (намереваться, притворяться) |
 | Penetrar | въезжать, проникать | 3 | 2026-06-21 | → англ. penetrate |
 | Cualquier | любой | 3 | 2026-06-09 | cual (какой) + quier (хочешь) — любой |
 | Apto | подходящий | 3 | 2026-06-29 | → англ. apt (подходящий) |
 | Terrenos | земельные участки, местность | 3 | 2026-06-09 | → англ. terrain |
 | Habilitados | разрешённые, оборудованные | 3 | 2026-06-09 | → англ. habilitated (оснащённые) |
 | Propulsión | двигатель, привод | 3 | 2026-06-17 | → англ. propulsion |
-| Así como | так же как и | 2 | 2026-06-17 | así = так, como = как |
+| Así como | так же как и | 2 | 2026-06-29 | así = так, como = как |
 | Tranvías | трамваи | 3 | 2026-06-09 | → англ. tramway |
 | Destinados | предназначенные | 3 | 2026-06-29 | → англ. destined |
 | Ambos | оба | 3 | 2026-06-09 | → лат. ambo → англ. both |
@@ -76,7 +76,7 @@
 | Manejo | управление | 3 | 2026-06-17 | → англ. manage (управлять) |
 | Alcance | радиус действия / досягаемость | 3 | 2026-06-22 | alcanzar = достигать → англ. reach |
 | Intermitentes | поворотники | 3 | 2026-06-17 | → англ. intermittent (мигающий) |
-| Estrangulador | подсос (в двигателе) | 3 | 2026-06-16 | → англ. strangler (душитель воздуха) |
+| Estrangulador | подсос (в двигателе) | 3 | 2026-06-29 | → англ. strangler (душитель воздуха) |
 | Direccionales | указатели поворота, поворотники | 2 | 2026-06-17 | → англ. directional (направляющий) |
 | Corte de ignición | выключение зажигания | 3 | 2026-06-17 | corte = отрезок, ignición → англ. ignition |
 | Botón de arranque | кнопка запуска двигателя | 3 | 2026-06-17 | botón = кнопка, arranque = запуск |
@@ -124,23 +124,23 @@
 | Parrilla delantera | решётка радиатора | 3 | 2026-06-26 | parrilla = решётка-гриль спереди |
 | Neumático | шина | 3 | 2026-06-26 | → англ. pneumatic (надувной) |
 | Tapacubos | колпак колеса | 3 | 2026-06-29 | tapa (крышка) + cubos (ступица) — крышка ступицы |
-| Reposacabezas | подголовник | 2 | 2026-06-05 | reposa (покой) + cabezas (голова) — подголовник |
+| Reposacabezas | подголовник | 3 | 2026-06-29 | reposa (покой) + cabezas (голова) — подголовник |
 | Tablero de mandos | приборная панель | 3 | 2026-06-26 | tablero = доска, mando = управление |
 | Volante | руль | 3 | 2026-06-29 | volar = летать, volante = вращающийся |
 | Contacto | зажигание | 2 | 2026-06-29 | → англ. contact (контакт = зажигание) |
 | Asiento | сиденье | 2 | 2026-06-09 | asentar = усаживать, asiento = сиденье |
-| Palanca de cambio | рычаг переключения передач | 2 | 2026-06-09 | palanca = рычаг, cambio = смена |
+| Palanca de cambio | рычаг переключения передач | 3 | 2026-06-29 | palanca = рычаг, cambio = смена |
 | Freno de mano | ручной тормоз | 3 | 2026-06-29 | freno = тормоз, mano = рука |
 | Para dar con | чтобы найти, добиться | 3 | 2026-06-24 | dar con = натолкнуться, найти |
 | Sígalas | следуйте им | 3 | 2026-06-24 | seguir = следовать, -las = им (женский род) |
 | Orden | порядок | 3 | 2026-06-29 | → англ. order |
 | Siendo ligeramente | будучи слегка / слегка | 2 | 2026-06-26 | siendo = будучи, ligeramente → англ. lightly |
-| Flexionada | согнутая | 3 | 2026-06-16 | → англ. flexed |
+| Flexionada | согнутая | 3 | 2026-06-29 | → англ. flexed |
 | Lo más lejos | как можно дальше | 3 | 2026-06-21 | lejos → англ. far, lo más = как можно |
 | Permita | позволяет | 3 | 2026-06-29 | → англ. permit |
 | Respaldo | спинка сиденья | 2 | 2026-06-10 | respaldar = поддерживать сзади, respaldo = спинка |
 | Inclinado | наклонённый | 3 | 2026-06-21 | → англ. inclined |
-| Vertical | вертикальный | 2 | 2026-06-10 | → англ. vertical |
+| Vertical | вертикальный | 3 | 2026-06-29 | → англ. vertical |
 | Ángulo recto | прямой угол | 2 | 2026-06-12 | ángulo → англ. angle, recto → англ. right |
 | Apoyados | опирающиеся | 2 | 2026-06-21 | apoyar = опираться → англ. support |
 | Alcancen | доставали | 2 | 2026-06-21 | alcanzar = достигать → англ. reach |
@@ -166,7 +166,7 @@
 | Precalentamiento diésel | прогрев дизеля | 1 | 2026-06-16 | pre + calentamiento (нагрев) = предварительный нагрев |
 | Pastillas de freno desgastadas | изношенные тормозные колодки | 1 | 2026-06-15 | pastilla = таблетка/колодка, desgastadas = изношенные |
 | Nivel de combustible bajo | низкий уровень топлива | 1 | 2026-06-11 | nivel → англ. level, combustible = топливо |
-| Fallo del ABS | сбой ABS | 1 | 2026-06-10 | fallo → англ. failure |
+| Fallo del ABS | сбой ABS | 2 | 2026-06-29 | fallo → англ. failure |
 | Airbag falla o está desconectado | сбой/отключение подушки безопасности | 1 | 2026-06-15 | airbag → англ. airbag, desconectado → disconnected |
 | Fallo dirección asistida | сбой усилителя руля | 1 | 2026-06-15 | dirección → англ. direction, asistida → assisted |
 | Lámpara de faro fundida | перегоревшая лампочка | 1 | 2026-06-15 | lámpara → англ. lamp, fundida = расплавленная |
@@ -174,10 +174,10 @@
 | Comprobar el nivel de aceite | проверить уровень масла | 1 | 2026-06-15 | comprobar → англ. check, aceite = масло |
 | Líquido limpiaparabrisas | жидкость омывателя | 1 | 2026-06-16 | líquido → англ. liquid, limpiaparabrisas = очиститель |
 | Presión de inflado de ruedas | давление подкачки колёс | 1 | 2026-06-15 | presión → англ. pressure, inflado → inflated |
-| Freno | тормоз | 1 | 2026-06-11 | → англ. frenetic (тормозить порывы) |
+| Freno | тормоз | 2 | 2026-06-29 | → англ. frenetic (тормозить порывы) |
 | Acelerador | акселератор, газ | 1 | 2026-06-12 | → англ. accelerator |
 | Guantera | бардачок | 1 | 2026-06-12 | guante = перчатка, guantera = перчаточный ящик |
-| Climatizador | климатизатор | 1 | 2026-06-12 | → англ. climate control |
+| Climatizador | климатизатор | 2 | 2026-06-29 | → англ. climate control |
 | Sistema de audio | аудиосистема | 1 | 2026-06-15 | → англ. audio system |
 | Encendedor de mechero | прикуриватель | 1 | 2026-06-16 | encender = зажигать, mechero = зажигалка |
 | Consola central | центральная консоль | 1 | 2026-06-15 | → англ. center console |
